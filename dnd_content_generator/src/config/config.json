@@ -1,6 +1,6 @@
 {
   "gpt-api": {
-    "api-key": "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"
+    "api-key": "YOUR_OPEN_AI_KEY"
   },
   "app-settings": {
     "max-tokens": 4000,
