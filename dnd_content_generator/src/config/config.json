@@ -1,0 +1,46 @@
+{
+  "gpt-api": {
+    "api-key": "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"
+  },
+  "app-settings": {
+    "max-tokens": 4000,
+    "n-results": 1,
+    "temperature": 0.27,
+    "models":  [
+        "gpt-4o",
+        "o1-preview",
+        "o1-mini"
+    ],
+    "llm_retry_count": 3,
+    "llm_retry_delay": 2
+  },
+  "schema-validation": {
+    "enable": true,
+    "schema_prompt_template": "You are a D&D 3.5e content generator. Provide a JSON schema that strictly describes the structure of {content_type} objects influenced by {context}, including required fields: 'name' (string), 'description' (string), and any other necessary attributes. The schema must be strictly valid JSON Schema (draft-07 or later) with a single top-level object.",
+    "default_schema": "./src/resources/default_schema.json"
+  },
+  "ui": {
+    "category_placeholder": "Select a Category...",
+    "type_placeholder": "Select a Type...",
+    "context_instructions": "Check any contexts that apply:",
+    "options_tooltips": {
+      "num_results": "Number of items to generate.",
+      "min_level": "Minimum level of the party or challenge.",
+      "max_level": "Maximum level of the party or challenge.",
+      "regen_name_only": "If checked, regeneration only changes the name, preserving other attributes.",
+      "lock_name": "If checked, the name is locked and will not change on regeneration."
+    },
+    "more_info_dialog_title": "Detailed Statblock"
+  },
+  "log-directories": {
+    "weapons": "./logs/weapons/",
+    "npcs": "./logs/npcs/",
+    "potions": "./logs/potions/",
+    "armor": "./logs/armor/",
+    "locations": "./logs/locations/"
+  },
+  "default_categories_file": "src/resources/dnd_categories.json",
+  "default_contexts_file": "src/resources/dnd_contexts.json",
+  "default_system": "D&D 3.5e",
+  "default_setting": "Faerun"
+}

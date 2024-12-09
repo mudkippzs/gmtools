@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<style>
+body {
+    font-family: "Times New Roman", serif;
+    margin: 10px;
+    background-color: #f9f8f3;
+    color: #000;
+}
+
+h2 {
+    font-size: 1.5em;
+    text-align: center;
+    border-bottom: 2px solid #000;
+    margin-bottom: 5px;
+}
+
+.description {
+    font-style: italic;
+    margin: 5px 0 10px 0;
+    text-align: justify;
+}
+
+.statblock-section {
+    margin: 5px 0;
+}
+
+.statblock-section p {
+    margin: 2px 0;
+    line-height: 1.2em;
+}
+
+.statblock-section p b {
+    font-weight: bold;
+}
+</style>
+</head>
+<body>
+
+<h2>{{NAME}}</h2>
+<p class="description">{{DESCRIPTION}}</p>
+
+<div class="statblock-section">
+    <!-- Additional fields will be inserted here -->
+    {{EXTRA_FIELDS}}
+</div>
+
+</body>
+</html>

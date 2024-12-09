@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RPG Content Schema",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The name of the generated content item.",
+      "ui_order": 1
+    },
+    "description": {
+      "type": "string",
+      "description": "A descriptive text for the generated content.",
+      "ui_order": 2
+    }
+  },
+  "required": ["name", "description"],
+  "additionalProperties": true
+}

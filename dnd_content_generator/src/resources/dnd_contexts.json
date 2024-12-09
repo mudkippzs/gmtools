@@ -1,0 +1,150 @@
+{
+  "General Contexts": {
+    "Dark & Mystical": {
+      "Darkness & Gloom": [
+        "Dark", "Gothic", "Haunted", "Shrouded", "Cursed"
+      ],
+      "Eldritch & Esoteric": [
+        "Eldritch", "Esoteric", "Primordial", "Ethereal", "Enchanted"
+      ]
+    },
+    "Magical & Spiritual": {
+      "Arcane & Divine": [
+        "Magic", "Divine", "Arcane", "Mythic", "Chivalric"
+      ],
+      "Ritual & Nature Faiths": [
+        "Ritualistic", "Shamanistic", "Monastic", "Pagan", "Druidic"
+      ]
+    },
+    "Technological & Alternative": {
+      "Industrial & Punks": [
+        "Industrial", "Steampunk", "Clockpunk", "Dieselpunk"
+      ],
+      "Futuristic & Mechanized": [
+        "Atompunk", "Solarpunk", "Cyberpunk", "Mechanical"
+      ]
+    },
+    "Historic & Fantastic": {
+      "Historic & Cultural": [
+        "Mundane", "Light", "Pastoral", "Heroic", "Nomadic", "Enlightened"
+      ],
+      "Mythic & Otherworldly": [
+        "Ancient", "Wondrous", "Celestial", "Underworld"
+      ]
+    },
+    "Emotional & Atmospheric": {
+      "Emotional Tones": [
+        "Chaotic", "Jubilant", "Mysterious", "Sorrowful", "Blessed"
+      ],
+      "Societal & Conceptual": [
+        "Haunted", "Mercantile", "Militaristic", "Arcadian", "Philosophical"
+      ]
+    }
+  },
+  "Geographic Contexts": {
+    "Aquatic & Coastal": {
+      "Marine Environments": [
+        "Nautical", "Coral Reef", "Kelp Forest"
+      ],
+      "Islands & Marshes": [
+        "Floating Archipelago", "Islandic", "Harbor", "Shimmering Marsh"
+      ]
+    },
+    "Urban & Civilized": {
+      "Settlements & Markets": [
+        "Urban", "Trading Post", "Market", "Bazaar"
+      ],
+      "Ruin & Overgrowth": [
+        "Ruined City", "Overgrown Ruins"
+      ],
+      "Inland Seas & Shores": [
+        "Inland Sea (settled shores)"
+      ]
+    },
+    "Wild & Natural": {
+      "Forests & Jungles": [
+        "Wilds", "Jungle", "Rainforest", "Fjord"
+      ],
+      "Plains & Savannah": [
+        "Savannah", "Grassland", "Steppe"
+      ],
+      "Archipelagos & Highlands": [
+        "Archipelago", "Highlands"
+      ]
+    },
+    "Cold & Icy": {
+      "Arctic Landscapes": [
+        "Arctic", "Glacier", "Tundra", "Icy Waste", "Boreal Forest"
+      ]
+    },
+    "Arid & Desert": {
+      "Deserts & Barren Lands": [
+        "Desert", "Badlands", "Oasis", "Salt Flat", "Mirage Plains"
+      ]
+    },
+    "Mountainous & Rugged": {
+      "High Terrain": [
+        "Mountainous", "Canyon", "Plateau", "Mesa"
+      ],
+      "Volcanic & Geothermal": [
+        "Crater Lake", "Foothills", "Volcanic Isle", "Geysers"
+      ]
+    },
+    "Wetlands & Swamps": {
+      "Moist Environments": [
+        "Swamp", "Marshland", "Bog", "Mangrove", "Floodplain"
+      ]
+    }
+  },
+  "Thematic Contexts": {
+    "Historic & Ancient": {
+      "Ancient Civilizations": [
+        "Ancient", "Mythological", "Archaic", "Mosaic Culture"
+      ],
+      "Lost Realms": [
+        "Lost World"
+      ]
+    },
+    "Moral Alignments & Faith": [
+      "Evil", "Holy", "Zealous", "Ritual Ceremony", "Prophetic"
+    ],
+    "Scenario & Setting Themes": {
+      "Adventure & Time": [
+        "Pirate-themed", "Futuristic", "Arcane Academy", "Surreal", "Time-Travel"
+      ],
+      "Fantastical Gatherings": [
+        "Fey Carnival", "Utopian", "Dystopian"
+      ]
+    },
+    "Conflict & Strife": [
+      "Warlike", "Invasion", "Corrupted", "Revolutionary", "Conspiracy",
+      "Under Siege", "Coup", "Raid"
+    ],
+    "Cultural & Mythic": [
+      "Folkloric", "Tribal", "Esoteric Cult", "Bardic College", "Crusading",
+      "Hallucinatory", "Astral", "Celestial", "Feral", "Chthonic"
+    ]
+  },
+  "Cultural Contexts": {
+    "European-Influenced": [
+      "European-inspired", "Norse-inspired", "Celtic-inspired", "Greek-inspired",
+      "Roman-inspired", "Slavic-inspired", "Byzantine-inspired"
+    ],
+    "Asian-Influenced": [
+      "Asian-inspired", "Chinese-inspired", "Japanese-inspired", "Korean-inspired",
+      "Indian-inspired", "Thai-inspired", "Mongolian-inspired"
+    ],
+    "Middle Eastern & African": [
+      "Egyptian-inspired", "Persian-inspired", "Arabian-inspired", "Berber-inspired",
+      "Ethiopian-inspired", "West African-inspired", "Yoruba-inspired", "Maasai-inspired"
+    ],
+    "Indigenous & American": [
+      "Mesoamerican-inspired", "Mayan-inspired", "Incan-inspired", "Aztec-inspired",
+      "Native American-inspired", "Caribbean-inspired"
+    ],
+    "Other World Cultures": [
+      "Polynesian-inspired", "Maori-inspired", "Phoenician-inspired", "Babylonian-inspired",
+      "Hebrew-inspired", "Hittite-inspired", "Aboriginal Australian-inspired"
+    ]
+  }
+}

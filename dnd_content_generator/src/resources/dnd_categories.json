@@ -1,0 +1,219 @@
+{
+  "Items": {
+    "Weapons & Armor": {
+      "Melee Weapons": [
+        "Simple Melee Weapon", "Martial Melee Weapon", "Heavy Blade", "Light Blade", "Polearm", "Hammer", "Mace", "Axe", "Spear", "Exotic Melee Weapon"
+      ],
+      "Ranged Weapons": [
+        "Short-Range Projectile Weapon", "Long-Range Bow", "Crossbow Variant", "Thrown Weapon", "Sling", "Repeating Projectile Weapon"
+      ],
+      "Armor Pieces": [
+        "Light Armor", "Medium Armor", "Heavy Armor", "Chain Armor", "Plate Armor", "Leather Armor", "Helmet", "Gauntlets", "Greaves", "Shield"
+      ],
+      "Shields": [
+        "Buckler", "Light Shield", "Heavy Shield", "Tower Shield", "Magical Shield"
+      ],
+      "Generic Weapon": [
+        "Common Weapon", "Enchanted Weapon", "Masterwork Weapon", "Ornate Weapon"
+      ]
+    },
+    "Magical & Consumables": {
+      "Potions": [
+        "Healing Potion", "Stealth Potion", "Enhancement Potion", "Resistance Potion", "Elemental Potion", "Stamina Potion", "Vision Potion"
+      ],
+      "Scrolls": [
+        "Basic Spell Scroll", "Offensive Spell Scroll", "Defensive Spell Scroll", "Utility Spell Scroll", "Summoning Spell Scroll", "Illusion Spell Scroll", "Transmutation Spell Scroll"
+      ],
+      "Wands": [
+        "Basic Wand", "Healing Wand", "Control Wand", "Elemental Wand", "Silencing Wand", "Summoner's Wand", "Illusionist's Wand"
+      ],
+      "Magic Items": [
+        "Container Magic Item", "Protective Magic Item", "Enhancement Magic Item", "Transformative Magic Item", "Communication Magic Item", "Transportation Magic Item"
+      ],
+      "Spell Foci": [
+        "Arcane Focus", "Divine Focus", "Elemental Focus", "Runic Focus", "Natural Focus", "Psychic Focus"
+      ],
+      "Ritual Components": [
+        "Rare Incense", "Special Ink", "Sacred Candle", "Etheric Powder", "Fine Chalk", "Mystic Herbs"
+      ],
+      "Herbs": [
+        "Medicinal Herb", "Poisonous Herb", "Rare Plant", "Aromatic Herb", "Arcane-Infused Herb", "Stimulant Herb", "Relaxant Herb"
+      ]
+    },
+    "Valuables & Currency": {
+      "Currency": [
+        "Generic Coins", "Trade Bars", "Precious Metal Ingots", "Standardized Tokens", "Shell Currency", "Beaded Trade Tokens"
+      ],
+      "Gems": [
+        "Common Gem", "Precious Gem", "Semi-Precious Gem", "Rare Crystal", "Elemental Stone", "Mystic Gem"
+      ],
+      "Art Objects": [
+        "Fine Artwork", "Decorative Piece", "Intricate Carving", "Artisanal Craft", "Cultural Artifact", "Ornate Sculpture"
+      ],
+      "Relics": [
+        "Ancient Relic", "Sacred Relic", "Cultural Heirloom", "Mystic Artifact", "Legendary Token"
+      ],
+      "Talismans": [
+        "Protective Talisman", "Guiding Talisman", "Elemental Talisman", "Cursed Talisman", "Healing Talisman"
+      ],
+      "Ornaments": [
+        "Decorative Ornament", "Ceremonial Ornament", "Exotic Ornament", "Symbolic Ornament", "Festive Ornament"
+      ],
+      "Runes": [
+        "Protection Rune", "Elemental Rune", "Communication Rune", "Binding Rune", "Illusion Rune", "Enhancement Rune"
+      ]
+    },
+    "Tools & Misc": {
+      "Books & Writing": [
+        "Cooking Book", "Spellbook", "Research Journal", "Travel Log", "Cultural Codex", "Common Notebook", "Tactical Guide", "Genealogical Record"
+      ],
+      "Adventuring Gear": [
+        "Rope", "Lantern", "Backpack", "Cooking Utensil", "Lockpick Set", "Grappling Hook", "Tent", "Bedroll", "Waterskin", "Flint & Steel", "Signal Whistle", "Cartographer's Tools", "Musical Instrument"
+      ]
+    },
+    "Wearables & Accessories": {
+      "Jewelry & Adornments": [
+        "Signet Ring", "Amulet", "Necklace", "Bracelet", "Earrings", "Brooch", "Charm", "Decorative Hairpin"
+      ],
+      "Apparel & Gear": [
+        "Bracer", "Mask", "Cloak", "Boots", "Gloves", "Hat", "Belt", "Tunic", "Hood", "Robe", "Sash"
+      ]
+    }
+  },
+  "Characters": {
+    "Commonfolk & Professions": [
+      "Farmer", "Hunter", "Fisher", "Merchant", "Blacksmith", "Baker", "Miller", "Shepherd", "Weaver", "Tailor", "Tanner", "Innkeeper", "Miner", "Mason", "Carpenter", "Leatherworker", "Potter", "Brewer", "Butcher", "Cook", "Herbalist", "Scribe", "Messenger", "Guardsman", "Stablehand", "Servant", "Furrier", "Chandler", "Ropemaker", "Cartwright"
+    ],
+    "Adventurers & Heroes": [
+      "Warrior", "Wizard", "Cleric", "Rogue", "Ranger", "Barbarian", "Druid", "Bard", "Paladin", "Sorcerer", "Monk", "Warlock", "Knight", "Swashbuckler", "Spellblade", "Witch", "Shaman", "Inquisitor", "Crusader", "Alchemist", "Psion", "Artificer"
+    ],
+    "Antagonists & Criminals": [
+      "Bandit", "Thief", "Assassin", "Cultist", "Pirate", "Smuggler", "Crime Lord", "Dark Knight", "Mad Alchemist", "Poisoner", "Kidnapper", "Warlord", "Corrupt Official", "Graverobber"
+    ],
+    "Authority & Nobility": [
+      "Noble", "Lord/Lady", "Baron/Baroness", "Duke/Duchess", "King/Queen", "Prince/Princess", "Chancellor", "Vizier", "Senator", "Diplomat", "Court Advisor", "Judge", "Magistrate", "Tax Collector", "Steward", "Chamberlain"
+    ],
+    "Organizations & Affiliations": [
+      "Guild Member", "Faction Agent", "Religious Acolyte", "Military Officer", "Secret Society Operative", "Merchant Consortium Representative", "Arcane Circle Adept", "Knightly Order Member", "Adventurer's Guild Recruit", "Scholars' Association Researcher", "Monastic Disciple", "Witch Coven Initiate"
+    ]
+  },
+  "Creatures": {
+    "Common Monsters": [
+      "Beast", "Animal Predator", "Vermin Swarm", "Humanoid Raider", "Simple Undead", "Goblin-like Creature", "Reptilian Humanoid", "Insectoid Creature"
+    ],
+    "Powerful Beings": [
+      "Dragon", "Giant", "Fiend", "Celestial", "Elder Elemental", "Legendary Beast", "Vampiric Entity", "Ancient Undead Lord", "Titanic Monster"
+    ],
+    "Legendary & Mythic": [
+      "Chimera", "Griffon", "Sphinx", "Hydra", "Phoenix", "Mythic Serpent", "Ancient Treant", "Colossal Turtle"
+    ],
+    "Intelligent Threats": [
+      "Aberrant Mind Creature", "Beholder-Like Entity", "Serpentine Humanoid Caster", "Fey Courtier", "Dark Elf", "Aboleth-like Creature", "Rakshasa-like Entity"
+    ],
+    "Undead & Constructs": [
+      "Common Undead (Skeleton, Zombie)", "Spirit Entity (Ghost, Wraith)", "Animated Construct (Golem)", "Corporeal Undead (Ghoul, Mummy)", "Lich-Spawned Creature"
+    ]
+  },
+  "Locations": {
+    "Settlements & Civilized Areas": [
+      "City", "Town", "Village", "Hamlet", "Trading Post", "Marketplace", "Harbor", "Inn", "Tavern", "Guildhall", "Fortress", "Keep", "Palace", "Manor House"
+    ],
+    "Adventure Sites": [
+      "Dungeon", "Ruined Keep", "Haunted House", "Arcane Tower", "Abandoned Mine", "Bandit Hideout", "Cavernous Lair", "Forgotten Tomb", "Deserted Temple", "Secret Laboratory"
+    ],
+    "Religious & Spiritual": [
+      "Temple", "Shrine", "Sacred Grove", "Catacomb", "Crypt", "Monastery", "Pilgrimage Site", "Oracle's Cave", "Holy Well"
+    ],
+    "Social & Cultural": [
+      "Theater", "Arena", "Brothel", "Library", "University", "Music Hall", "Courthouse", "Bathhouse", "Cultural Plaza", "Festival Grounds"
+    ],
+    "Wilderness & Remote": [
+      "Druid Grove", "Dense Forest", "Mountain Pass", "Underwater Realm", "Floating Island", "Desert Oasis", "Jungle Ruins", "Mist-Shrouded Swamp", "Highland Plateau"
+    ]
+  },
+  "Story Elements": {
+    "Narrative Hooks": [
+      "Quest", "Rumor", "Treasure Map", "Mysterious Letter", "Prophetic Dream", "Strange Disappearance", "Local Legend", "Long-Standing Feud", "Rivalry"
+    ],
+    "Cultural & Political": [
+      "Diplomatic Mission", "Trade Negotiation", "Conspiracy", "Rebellion", "Royal Succession", "Cultural Exchange", "Border Dispute", "Secret Alliance"
+    ],
+    "Historic & Mythic": [
+      "Ancient Prophecy", "Lost Civilization", "Epic Poem", "Old War", "Mythic Ritual", "Inheritance", "Historic Feud", "Forgotten Deity"
+    ],
+    "Conflict & Cataclysm": [
+      "Cataclysm", "Great Storm", "Famine", "Plague", "Artifact Hunt", "Invasion", "Erupting Volcano", "Undead Uprising", "Draconic Incursion"
+    ],
+    "Mystical & Unusual Events": [
+      "Eclipse", "Divine Intervention", "Ghostly Apparition", "Wish Granting", "Moral Dilemma", "Arcane Experiment", "Planar Convergence", "Strange Phenomenon"
+    ]
+  },
+  "Worldbuilding": {
+    "Political Entities": [
+      "Empire", "Kingdom", "Republic", "Confederation", "Nomadic Tribe", "City-State", "Dwarven Stronghold", "Elven Enclave", "Orcish Horde"
+    ],
+    "Cultural & Social Structures": [
+      "Culture", "Tradition", "Festival", "Merchant Guild", "Artisan Collective", "Warrior Clan", "Academic Society", "Religious Order", "Trade Caravan Network"
+    ],
+    "Religious & Arcane Orders": [
+      "Deity", "Pantheon", "Druidic Circle", "Knightly Order", "College of Mages", "Necromantic Cabal", "Cult of Old Gods", "Elemental Brotherhood"
+    ],
+    "Geographical/Planar": [
+      "Prime Material Plane", "Elemental Realm", "Undersea Kingdom", "Floating Island Nation", "Hollow Earth Domain", "Astral Sea", "Feywild", "Shadowfell"
+    ],
+    "Key Landmarks & Wonders": [
+      "Great Library", "World Tree", "Primordial Forge", "Sacred Mountain", "Standing Stones", "Crystal Spire", "Hanging Gardens", "Grand Canal", "Ancient Lighthouse"
+    ]
+  },
+  "Character Options": {
+    "Lineage & Heritage": [
+      "Race", "Bloodline", "Heritage", "Cultural Background", "Elemental Ancestry", "Draconic Lineage", "Fey-Touched Heritage", "Celestial Origin"
+    ],
+    "Class & Specializations": [
+      "Class", "Archetype", "Martial Tradition", "School of Magic", "Divine Domain", "Pact Boon", "Fighting Style", "Psionic Discipline", "Totem Spirit", "Artisan Specialty"
+    ],
+    "Background & Social Standing": [
+      "Commoner", "Noble", "Guild Member", "Soldier", "Scholar", "Wanderer", "Outlander", "Courtier", "Criminal", "Entertainer", "Hermit", "Merchant", "Acolyte", "Sailor"
+    ],
+    "Magic & Power Sources": [
+      "Spell", "Metamagic Option", "Eldritch Invocation", "Sorcerous Origin", "Warlock Patron", "Channel Divinity", "Spiritual Totem", "Arcane Invention"
+    ],
+    "Additional Customization": [
+      "Racial Trait", "Cultural Trait", "Monastic Tradition", "Bardic College", "Ranger Conclave", "Druidic Circle", "Barbarian Path", "Specialized Feat", "Minor Boon"
+    ]
+  },
+  "Traps/Hazards": {
+    "Mechanical Traps": [
+      "Pit Trap", "Dart Trap", "Falling Block Trap", "Swinging Blade Trap", "Pressure Plate Puzzle", "Weighted Net Trap", "Whirring Sawblade Mechanism"
+    ],
+    "Magical Traps": [
+      "Explosive Rune Trap", "Magic Glyph Trap", "Illusionary Floor", "Soul Drain Rune", "Telekinetic Field Trap", "Elemental Ward"
+    ],
+    "Environmental Hazards": [
+      "Quicksand", "Acid Pool", "Freezing Mist", "Burning Coals", "Toxic Spores", "Volcanic Vent", "Collapsing Ice Shelf"
+    ],
+    "Mind-Bending Challenges": [
+      "Hall of Mirrors", "Time Loop Trap", "Maddening Whispers", "Sentient Puzzle Box", "Dream Maze", "Shifting Labyrinth"
+    ],
+    "Complex Encounters": [
+      "Skill Challenge", "Shifting Sands Puzzle", "Siren's Song Hazard", "Gravity Inversion Room", "Enchanted Chains", "Living Chessboard"
+    ]
+  },
+  "Events/Encounters": {
+    "Social Gatherings": [
+      "Diplomatic Summit", "Noble Banquet", "Masquerade Ball", "Bardic Competition", "Harvest Gala", "Cultural Festival", "Great Market Day"
+    ],
+    "Conflict & Combat": [
+      "Monster Ambush", "Bandit Raid", "Arena Challenge", "Gladiatorial Games", "Street Brawl", "Noble Duel", "Skirmish with Invaders"
+    ],
+    "Cultural & Seasonal": [
+      "Harvest Festival", "Royal Wedding", "Cultural Exchange Fair", "Midwinter Festival", "Great Bazaar", "Seasonal Ritual", "Pilgrimage Parade"
+    ],
+    "Mysterious & Supernatural": [
+      "Ghostly Visitation", "Fey Carnival", "Astral Alignment", "Portal Opening", "Rain of Strange Creatures", "Displaced Spirits", "Twilit Revel"
+    ],
+    "High-Stakes Situations": [
+      "Heist", "Inquisitorial Inspection", "Exotic Beast Show", "Trade Caravan Arrival", "Prophetic Reading", "Secret Auction", "Siege Negotiation"
+    ]
+  }
+}

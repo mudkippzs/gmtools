@@ -1,0 +1,10 @@
+{
+  "Cost": "2 gp",
+  "Critical": "20/x2",
+  "Damage": "1d4",
+  "Description": "An old and worn dagger with a dull blade. It looks like it might break at any moment.",
+  "Name": "Rusty Dagger",
+  "Range Increment": "",
+  "Type": "piercing",
+  "Weight": "1 lb"
+}

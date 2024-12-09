@@ -1,0 +1,2740 @@
+{
+  "Planets & Locations": {
+    "Core Worlds": [
+      "Metropolitan Planet",
+      "Cultural Hub",
+      "Industrial Core",
+      "Trading Nexus",
+      "Senatorial Capital",
+      "Banking Centre World",
+      "Aristocratic Core Estate",
+      "University District Planet",
+      "Diplomatic Conclave World",
+      "High-Gravity Core Colony"
+    ],
+    "Outer Rim Territories": [
+      "Frontier Outpost",
+      "Smuggler's Haven",
+      "Mining Colony",
+      "Refueling Station",
+      "Neutral Commerce Point",
+      "Refugee Enclave",
+      "Overtaxed Resource World",
+      "Dusty Frontier Settlement",
+      "Hidden Rebel Safehouse",
+      "Underdeveloped Agro-World"
+    ],
+    "Unknown Regions": [
+      "Uncharted World",
+      "Hidden Stronghold",
+      "Secret Research Base",
+      "Primitive Tribal World",
+      "Mystical Nebula Colony",
+      "Ruined Ancient City",
+      "Crystal-Seeded Wasteland",
+      "Bio-Engineered Paradise",
+      "Dark Force Nexus Planet",
+      "Isolated Diplomatic Retreat"
+    ],
+    "Space Stations & Megastructures": [
+      "Orbital Shipyard",
+      "Star Habitat Ring",
+      "Holo-Entertainment Station",
+      "Refugee Platform",
+      "Archive Vault Satellite",
+      "Trade Hub Goliath",
+      "Military Training Station",
+      "Medical Recovery Wheel",
+      "Luxury Casino Orbital",
+      "Deep-Space Fuel Depot"
+    ],
+    "Exotic Biomes": [
+      "Jungle Moon",
+      "Crystal Cavern World",
+      "Living Ocean Sphere",
+      "Bio-Dome Enclave",
+      "Floating Gas Platforms",
+      "Acidic Marsh Planet",
+      "Volcanic Core World",
+      "Aurora-Wrapped Ice Moon",
+      "Fungal Grove Hemisphere",
+      "Bioluminescent Archipelago"
+    ]
+  },
+  "Species & Races": {
+    "Humanoid Species": [
+      "Long-Lived Diplomats",
+      "Musical-Voiced Artisans",
+      "Nocturnal Traders",
+      "Telepathic Councilors",
+      "Multi-armed Engineers",
+      "Desert-Hardened Nomads",
+      "Culturally Syncretic Merchants",
+      "Philosophical Urban Dwellers",
+      "Subterranean Visionaries",
+      "Jungle-Dwelling Herbalists"
+    ],
+    "Non-Humanoid Species": [
+      "Insectoid Hive-Minds",
+      "Amorphous Shapeshifters",
+      "Rocky Skinned Herbivores",
+      "Luminescent Beings",
+      "Trunked Forest Dwellers",
+      "Molluscoid Swarm Collectives",
+      "Bioluminescent Aerial Entities",
+      "Semi-Aquatic Crustacean People",
+      "Gravity-Adapted Quadrupeds",
+      "Photosynthetic Plains Grazers"
+    ],
+    "Aquatic & Amphibious": [
+      "Reef-Dwelling Sentients",
+      "Bioluminescent Swimmers",
+      "Deep-Sea Nomads",
+      "Singing Kelp Farmers",
+      "Coral Sculptors",
+      "Saline Marsh Harvesters",
+      "Shell-Trader Clans",
+      "Amphibious Oracle Keepers",
+      "Undertide Toolmakers",
+      "Brinewater Philosopher Schools"
+    ],
+    "Avian & Winged": [
+      "Feather-Crested Philosophers",
+      "Gliding Skyfish",
+      "Messenger Avian Folk",
+      "Wind-Singing Avians",
+      "Raptor-Warriors",
+      "Song-Glider Mystics",
+      "Nest-Building Tree Diplomats",
+      "Hummingblade Avians",
+      "Thermal Soaring Couriers",
+      "Sky Shepherd Species"
+    ],
+    "Synthetic & Engineered": [
+      "Gene-Spliced Hybrids",
+      "Bio-Cybernetic Species",
+      "Vat-Grown Servitors",
+      "Cloned Diplomatic Castes",
+      "Synthetic Flesh Constructs",
+      "Memory-Imprinted Ecologists",
+      "Hybrid Warrior Strains",
+      "Emotion-Engineered Artisans",
+      "Genetic Archivist Lineages",
+      "Nanite-Integrated Designers"
+    ]
+  },
+  "Organizations & Affiliations": {
+    "Governing Bodies": [
+      "Interstellar Republic",
+      "Technocratic Council",
+      "Harmonious Federation",
+      "Confederation of Sectors",
+      "Planetary Senate",
+      "Progressive Governor Alliance",
+      "Core Constitutional Union",
+      "Frontier Mandate Assembly",
+      "Protectorate Resource Council",
+      "Cultural Preservation Junta"
+    ],
+    "Underworld Syndicates": [
+      "Spice Cartel",
+      "Shadow Broker Network",
+      "Pirate Armada",
+      "Black Market Consortium",
+      "Saboteur Circles",
+      "Holo-Runner Smuggling Rings",
+      "Credit Laundering Clans",
+      "Illicit Droid Chop Shops",
+      "Gunrunner Constellation",
+      "Rare Artifact Poachers"
+    ],
+    "Religious & Spiritual Orders": [
+      "Force-Neutral Monastics",
+      "Ancient Shamanic Cult",
+      "Cosmic Harmony Temple",
+      "Ancestor-Worship Fellowship",
+      "Song-Priesthood",
+      "Crystal Oracle Choir",
+      "Celestial Balance Dervishes",
+      "Star Beacon Ascetics",
+      "Void Whisper Chaplains",
+      "Labyrinth Dream Seers"
+    ],
+    "Military Factions": [
+      "Planetary Defense Force",
+      "Private Security Company",
+      "Mercenary Regiments",
+      "Cross-Sector Militia",
+      "Armored Lance Cohorts",
+      "Void Ranger Patrols",
+      "Interdiction Fleet Corps",
+      "Anti-Piracy Flotilla",
+      "Shock-Trooper Brigades",
+      "Special Recon Units"
+    ],
+    "Corporate Conglomerates": [
+      "Hyperdrive Manufacturer",
+      "Astro-Mining Corporation",
+      "Cybernetic Enhancement Group",
+      "Luxury Good Merchant Guild",
+      "Terraforming Enterprise",
+      "Bacta Supply Conglomerate",
+      "Stellar Cartography Firms",
+      "Artisanal Droid Workshops",
+      "Nutrient Synth Consortium",
+      "Bio-Industrial Combine"
+    ],
+    "Noble Houses & Dynasties": [
+      "Ancient Aristocratic Lineage",
+      "Resource-Rich Barony",
+      "Diplomatic Margraviate",
+      "Scholar Duke Estate",
+      "Highborne Industrial Clan",
+      "Stellar Marquis Court",
+      "Platinum Crowned Heritage",
+      "Famed Duelist Nobility",
+      "Planet-Founding Dynasty",
+      "Deep-Rooted Manor Lords"
+    ]
+  },
+  "Technology & Engineering": {
+    "Spacecraft & Vehicles": {
+      "Civilian & Commercial Starships": [
+        "Light Courier Vessel",
+        "Luxury Diplomatic Yacht",
+        "Merchant Guild Freighter",
+        "Interstellar Passenger Liner",
+        "Modular Cargo Hauler",
+        "Artisanal Shipwright's Custom Cruiser",
+        "Long-Distance Colony Transport",
+        "Mobile Hydroponics Farm Ship",
+        "Refueling & Service Platform",
+        "Cultural Exchange Clipper"
+      ],
+      "Military & Tactical Starships": [
+        "Blockade Runner Corvette",
+        "Armored Patrol Frigate",
+        "Stealth Scout Corvette",
+        "Anti-Piracy Gunship",
+        "Quantum Rift Interdictor Cruiser",
+        "Ion Storm Defense Frigate",
+        "High-Capacity Troop Transport",
+        "Command & Control Dreadnought",
+        "Targeted Strike Bomber",
+        "Deep-Space Interceptor"
+      ],
+      "Exploratory & Research Vessels": [
+        "Modular Exploration Cruiser",
+        "Long-Range Surveyor",
+        "Mobile Repair Tender (for field research)",
+        "Terraforming Seedship",
+        "Bacta Harvesting Frigate",
+        "Astro-Lab Analytical Cutter",
+        "Precursor Tech Salvage Rig",
+        "Nebula Charting Pinnace",
+        "Wormhole Stabilizer Tender",
+        "Deep-Core Prospecting Barge"
+      ],
+      "Support & Specialized Craft": [
+        "Gravity Well Constructor",
+        "Drone Swarm Carrier",
+        "Sensor Cloak E-War Corvette",
+        "Medical Evacuation Cruiser",
+        "Force-Nullification Scout",
+        "Ambassadorial Envoy Shuttle",
+        "Automated Sensor Net Layer",
+        "Cultural Artifact Excavation Ship",
+        "Dark Matter Harvesting Vessel",
+        "Microgravity Crystal Grower"
+      ],
+      "Atmospheric & Surface Vehicles": [
+        "All-Terrain Walker",
+        "Hover-Tank",
+        "Desert Skimmer",
+        "Forest Speeder Bike",
+        "Aero-Glider",
+        "Podracing Speeder",
+        "Anti-Grav Cargo Lifter",
+        "Refugee Transport Crawler",
+        "Urban Riot Control Sled",
+        "Cliffside Rope Tram"
+      ]
+    },
+    "Weaponry & Arms": {
+      "Ranged Weaponry": [
+        "High-Energy Blasters",
+        "Ion Torpedoes",
+        "Sonic Disruptors",
+        "Mag-Pulse Cannons",
+        "Plasma Cutters",
+        "Scattershot Ion Rifles",
+        "Beam Lances",
+        "Hypervelocity Slug Throwers",
+        "Adaptive Frequency Blasters",
+        "Neural Lash Pistols"
+      ],
+      "Melee & Close-Combat Arms": [
+        "Bio-Electronic Blade",
+        "Vibro-Mace Emitters",
+        "Plasma-Fused Axes",
+        "Crystal-Edge Sabers",
+        "Holo-Decoy Sabers (for dueling practice)",
+        "Gravity Hammer Cannons (miniaturized for boarding actions)",
+        "Photon Katanas",
+        "EMP Filament Swords",
+        "Sonic Stiletto Knives",
+        "Nano-Edge Throwing Blades"
+      ],
+      "Specialized & Exotic Weaponry": [
+        "Variable Yield Grenades",
+        "Gravitational Mines",
+        "Disintegration Beam Emitters",
+        "Corrosive Gas Projectors",
+        "Phase-Shift Needlers",
+        "Molecular Destabilizers",
+        "EM Field Grenade Launchers",
+        "Dark Ion Repeaters",
+        "Quantum Hook Launchers",
+        "Force-Linked Crystal Staves"
+      ],
+      "Siege & Heavy Ordinance": [
+        "Ion Drill Bombards",
+        "Plasma Arc Throwers",
+        "Tachyon Spike Rifles (scaled-up for emplacement)",
+        "Multi-Missile Cluster Pods",
+        "Neutron-Flux Torches",
+        "Artillery Support Cannon",
+        "Anti-Armor Drill Beams",
+        "Gravity Lash Cannons",
+        "Fusion Lance Mortars",
+        "Mass Driver Railguns"
+      ]
+    },
+    "Defensive & Protective Systems": {
+      "Armor & Hull Enhancements": [
+        "Reactive Armor Plating",
+        "Molecular Absorption Armor",
+        "Bio-Armored Hull Grafts",
+        "Self-Healing Membrane Coatings",
+        "Morphic Alloy Plates",
+        "Nano-Spore Ablative Dust",
+        "Memory Metal Hull Patches",
+        "Pressure Stabilizer Frames",
+        "Ion-Drain Hull Microfibers",
+        "Heat-Resistant Carbon Blocks"
+      ],
+      "Shielding & Cloaking": [
+        "Deflector Shields",
+        "Cloaking Matrices",
+        "Phase Inversion Shields",
+        "Hard Light Shielding Arrays",
+        "Photon Scattering Veils",
+        "Gravity Diffraction Nets",
+        "Anti-Psionic Shielding",
+        "Holo-Cloak Camouflage Layers",
+        "Quantum Shield Generators",
+        "Temporal Phase Shielding"
+      ],
+      "Electronic Warfare & Countermeasures": [
+        "Advanced EW Suites",
+        "Static Discharge Hull (against ion attacks)",
+        "Comprehensive Countermeasures",
+        "EMP Nullification Grids",
+        "Sonic Wave Repulsors",
+        "Magnetic Field Stabilizers",
+        "Neuro-Blockade Fields",
+        "Harmonic Field Tuners",
+        "Subspace Distortion Scramblers",
+        "Holo-Decoy Emitters"
+      ]
+    },
+    "Cybernetics & Bio-Enhancements": {
+      "Sensory Enhancements": [
+        "Optical Spectrum Filters",
+        "Enhanced Auditory Filaments",
+        "Thermal Vision Retinas",
+        "Holographic HUD Overlays",
+        "Scent Analysis Chamber",
+        "UV/IR Filtered Eyes",
+        "Neural-to-Holo Interpreters (for direct visual feed)",
+        "Magnetosensitive Fingertips",
+        "Force-Attuned Neural Bridges",
+        "Neural Firewall Modules"
+      ],
+      "Physiological Modifications": [
+        "Metabolic Efficiency Grafts",
+        "Bio-Nanite Healing Meshes",
+        "Bone Density Enhancers",
+        "Anti-Toxin Blood Filters",
+        "Radiation Shielded Skin",
+        "Calorie Synthesis Glands",
+        "Micro-Gravity Orientation Mods",
+        "High-Altitude Lung Mods",
+        "Muscle Fiber Realignment",
+        "Lactic Acid Inhibitors"
+      ],
+      "Cognitive & Neural Upgrades": [
+        "Neural Uplinks",
+        "Synaptic Reflex Boosters",
+        "Quantum Thought Accelerators",
+        "Memory Archive Nodes",
+        "Brainwave Link Portals",
+        "Subvocal Communication Chips",
+        "Genetic Immune Overhauls (brain-cell resilience)",
+        "Data Storage Hippocampus Mods",
+        "Emotion-Regulating Serotonin Pumps",
+        "Cognitive Code Interpreters"
+      ]
+    },
+    "Medical & Biotech": {
+      "Healthcare Devices & Instruments": [
+        "Advanced Prosthetics",
+        "Nano-Surgical Suites",
+        "Holo-Assisted Diagnostic Tables",
+        "Anti-Allergy Gene Mods",
+        "Tissue Fusion Wands",
+        "Bioelectric Healing Currents",
+        "Metabolic Recalibration Pills",
+        "Enhanced Immune Algorithm Implants",
+        "Stem Cell Replenishment Banks",
+        "Viral Genome Editors"
+      ],
+      "Bioengineering & Genetic Tools": [
+        "Clone Organ Farms",
+        "Genetic Healing Chambers",
+        "Cerebral Cloning Pods",
+        "Organ Preservation Cryo Pods",
+        "Bio-Reactor Stomach Implants",
+        "Micro-Drone Surgery Swarms",
+        "Epigenetic Modulation Rooms",
+        "Alloy Bone Graft Systems",
+        "Gene Therapy Micro-Labs",
+        "Adaptive Tissue Grafting Frames"
+      ],
+      "Rehabilitation & Recovery Systems": [
+        "Bacta Refinement Centers",
+        "Stasis Recovery Modules",
+        "Neural Stress Dissipators",
+        "Memory Repair Implants",
+        "Gravity Compression Therapy Beds",
+        "Psycho-Emotional Rehabilitation Modules",
+        "Cryo-Bacta Hybrid Gels",
+        "Anti-Radiation Enzyme Baths",
+        "Longevity Hormone Synergy Labs",
+        "Shock Trauma Reduction Pods"
+      ]
+    },
+    "Communication & Information Systems": {
+      "Long-Range Communication": [
+        "Holo-Net Transceivers",
+        "Quantum Entanglement Relays",
+        "Long-Range Subspace Antennas",
+        "Zero-Delay Transmission Links",
+        "Autonomous Com Satellite Swarms",
+        "Sub-Luminal Burst Codes",
+        "Warp Gap Communication Bridges",
+        "Astro-Cartographic Signal Mirrors",
+        "Prism Light Code Refractors",
+        "Neutrino Code Decoders"
+      ],
+      "Encryption & Security": [
+        "Encrypted Beacon Buoys",
+        "Multi-Layer Com Scramblers",
+        "Quantum Key Distribution Stations",
+        "Non-Linear Cipher Arrays",
+        "Anti-Snooping Code Membranes",
+        "Fractal Compression Hubs",
+        "Silent Running Com Nodes",
+        "Time-Shifted Code Rings",
+        "Memory Whisper Exchange Units",
+        "Bio-Encrypted Thought Relays"
+      ],
+      "Holo-Interfaces & Translators": [
+        "Inter-Faith Translation Chips",
+        "Telepathic Interface Systems",
+        "Neural Link Headsets",
+        "Holo-Grid Pattern Mappers",
+        "Force-Echo Translators",
+        "Xenolinguistic Data Filters",
+        "Holo-Fog Relay Globes",
+        "Harmonic Whisper Rerouters",
+        "Data Frequency Weavers",
+        "Genetic Code-to-Signal Converters"
+      ]
+    }
+  },
+  "Droids & Artificial Life": {
+    "Astromech & Navigation Units": {
+      "Navigation & Survey Models": [
+        "Navigation Specialist Droid",
+        "Drift-Charting Droid",
+        "Orbital Lane Mapper",
+        "Hyperspace Lane Cartographer",
+        "Sub-Orbital Surveyor Unit",
+        "Wormhole Trajectory Calculator",
+        "Comet Trail Analyzer",
+        "Star Cluster Scout Drone"
+      ],
+      "Maintenance & Repair Astromechs": [
+        "Hull Maintenance Unit",
+        "Emergency Repair Sprinter",
+        "Quantum Computation Droid (for diagnostics)",
+        "Atmospheric Re-Entry Bot (hull integrity checks)",
+        "Subspace Calibration Droid",
+        "Hull Microfracture Sensor",
+        "Structural Rivet Installer",
+        "Grav-Field Tuning Mech"
+      ],
+      "Sensor & Data Analysis Bots": [
+        "Sensor Probe Variant",
+        "Holo-Splicer Interface Droid (data feed optimization)",
+        "Radiation Profile Sampler",
+        "Spectral Signature Comparator",
+        "Ion Storm Monitor Drone",
+        "Elemental Composition Analyzer",
+        "Magnetosphere Mapper",
+        "Solar Flare Forecaster"
+      ]
+    },
+    "Protocol & Diplomatic Models": {
+      "Diplomatic Interface Droids": [
+        "Multi-Lingual Mediator Droid",
+        "Ambassadorial Escort Droid",
+        "Treaty Signatory Assistant",
+        "Peace Conference Attendant",
+        "Inter-Cultural Liaison Droid",
+        "Protocol Archivist",
+        "Holo-Record Diplomatic Aide",
+        "Non-Aggression Pact Facilitator"
+      ],
+      "Cultural & Etiquette Units": [
+        "Cultural Etiquette Unit",
+        "Ceremonial Greeter Droid",
+        "Art Critique Companion",
+        "Festival Rites Interpreter",
+        "Customs Declaration Analyzer",
+        "Heritage Song Replayer",
+        "Mythology Recitation Model",
+        "Religious Observance Aide"
+      ],
+      "Trade & Bureaucratic Assistants": [
+        "Trade Negotiator Model",
+        "Border Dispute Facilitator",
+        "Bureaucratic Overwatch Droid",
+        "Taxation Codex Reader",
+        "Holo-Ledger Balancing Unit",
+        "Fair-Trade Compliance Checker",
+        "Market Exchange Calculator",
+        "Credit Arbitration Droid"
+      ]
+    },
+    "Combat & Security Droids": {
+      "Security & Enforcement Units": [
+        "Armored Enforcer Droid",
+        "Anti-Riot Walker",
+        "Frontier Patrol Droid",
+        "Custodial Enforcement Automaton",
+        "Perimeter Alarm Mech",
+        "Access Control Monitor Droid",
+        "Ion Barrier Gatekeeper",
+        "Crowd Dispersal Walker"
+      ],
+      "Battlefield & Tactical Droids": [
+        "Heavy Gunner Droid",
+        "Sniper-Pattern Droid",
+        "Anti-Armor Quadruped",
+        "Explosive Ordnance Defuser",
+        "Tracer Beacon Commando Bot",
+        "Adaptive Shielding Drone",
+        "Precision Strike Coordinator",
+        "Flank Cover Sentinel"
+      ],
+      "Covert & Specialized Combat Models": [
+        "Stealth Infiltrator Unit",
+        "Hunter-Killer Sentinel",
+        "Ion Blade Gladiator",
+        "EMP Disruption Scout",
+        "Biowarfare Countermeasure Droid",
+        "Quantum Cloak Infiltrator",
+        "Sabotage Protocol Droid",
+        "Holo-Decoy Assault Droid"
+      ]
+    },
+    "Labor, Industrial & Service Droids": {
+      "Agricultural & Environmental Bots": [
+        "Agri-Drone Harvester",
+        "Undersea Farming Assistant",
+        "Forest Canopy Pruner",
+        "Hydroponic Garden Tiller",
+        "Seed Dispersal Mechanism",
+        "Soil Composition Tester",
+        "Pest Control Skimmer",
+        "Fungal Crop Monitor"
+      ],
+      "Industrial & Manufacturing Units": [
+        "Construction Support Droid",
+        "Factory Line Coordinator",
+        "Junk Salvage Bot",
+        "Refinery Quality Inspector",
+        "Alloy Ingot Pourer",
+        "Precision Welding Droid",
+        "Metal Press Operator Bot",
+        "Energy Cell Assembly Droid"
+      ],
+      "Logistics & Cargo Handling Models": [
+        "Cargo Loader Automaton",
+        "Spaceport Dock Droid",
+        "Gravity Freight Lifter",
+        "Pallet Sorting Servitor",
+        "Automated Inventory Tracker",
+        "Shipment Seal Checker",
+        "Trade Depot Stacker",
+        "Freighter Bay Organizer"
+      ],
+      "Infrastructure & Maintenance Droids": [
+        "Habitat Maintenance Unit",
+        "Solar Collector Adjuster",
+        "Waste Management Droid",
+        "Aqueduct Flow Monitor",
+        "Air Filtration Regulator Bot",
+        "Thermal Conduit Stabilizer",
+        "Roadway Patching Machine",
+        "Structural Integrity Scanner"
+      ]
+    },
+    "Medical, Caregiving & Wellness Droids": {
+      "Surgical & Operating Theater Models": [
+        "Surgical Assistant Unit",
+        "Bacta Regeneration Droid",
+        "Precision Laser Scalpel Droid",
+        "Anesthetic Delivery Automaton",
+        "Micro-Suture Needle Bot",
+        "Neural Interface Calibration Unit",
+        "Organ Transplant Support Droid",
+        "Holo-Surgery Aid Droid"
+      ],
+      "Recovery & Therapeutic Units": [
+        "Infirmary Protocol Droid",
+        "Geriatric Care Model",
+        "Therapeutic Companion Droid",
+        "Rehabilitation Guide Automaton",
+        "Kinetic Therapy Massager",
+        "Nutrient Infusion Assistant",
+        "Muscle Stimulator Drone",
+        "Mobility Assistance Walker"
+      ],
+      "Mental Health & Emergency Care": [
+        "Mental Wellness Interface",
+        "Holo-Psychology Coach",
+        "Neural Recalibration Droid",
+        "Crisis Response Medic Bot",
+        "Trauma Counseling Companion",
+        "Subspace Distress Signal Responder",
+        "Field Triage Analyzing Droid",
+        "Quarantine Monitoring Unit"
+      ]
+    }
+  },
+  "Vehicles & Transportation": {
+    "Starfighters": {
+      "Light & Interceptor Craft": [
+        "Interceptor Craft",
+        "Short-Range Dart Fighter",
+        "Light Recon Swoop",
+        "Micro-Lancer Patrol Ship",
+        "High-Speed Chase Skiff"
+      ],
+      "Heavy Attack & Bomber Craft": [
+        "Heavy Bomber Variant",
+        "Armored Strike Gunship",
+        "Torpedo Payload Fighter",
+        "Forward Assault Bomber",
+        "Long-Range Siege Craft"
+      ],
+      "Stealth & Recon Units": [
+        "Stealth Strike Fighter",
+        "Holo-Hunter Variant",
+        "Mag-Sloop Recon Fighter",
+        "Signal-Dampening Scout",
+        "Nebula-Cloaked Surveyor"
+      ],
+      "Escort & Defense Fighters": [
+        "Star-Patrol Gunship",
+        "Shield-Piercing Raider",
+        "Broad-Winged Interdictor",
+        "Flare-Wing Escort",
+        "Sentinel Escort Lance"
+      ]
+    },
+    "Freighters & Transports": {
+      "Cargo & Trade Freighters": [
+        "Blockade Freighter",
+        "Cargo Barge",
+        "Armored Convoy Hauler",
+        "Stealth Smuggler Freighter",
+        "Sector-Wide Freight Hauler"
+      ],
+      "Passenger & Diplomatic Vessels": [
+        "Refugee Transport Vessel",
+        "Diplomatic Courier Ship",
+        "Holo-Storage Vessel",
+        "Cultural Exchange Shuttle",
+        "Long-Haul Passenger Liner"
+      ],
+      "Modular & Specialized Transports": [
+        "Mobile Workshop Freighter",
+        "Modular Colony Transporter",
+        "Resource Tanker Tug",
+        "Orbital Logistics Cutter",
+        "Adaptive Docking Tender"
+      ],
+      "Rapid & Covert Delivery": [
+        "Rapid Delivery Cutter",
+        "Smuggler’s Slip Freighter",
+        "Encrypted Cargo Sloop",
+        "Micro-Container Runner",
+        "Stealthy Courier Sparrow"
+      ]
+    },
+    "Capital Ships": {
+      "Command & Control Vessels": [
+        "Command Dreadnought",
+        "Carrier Battleship",
+        "Holo-Barrage Destroyer",
+        "Admiralty Control Cruiser",
+        "Fleet Coordination Beacon Ship"
+      ],
+      "Heavy Combat & Siege Ships": [
+        "Artillery Cruiser",
+        "Interdictor Starcruiser",
+        "Mobile Space Fortress",
+        "Graviton Lance Cruiser",
+        "Anti-Capital Ion Frigate"
+      ],
+      "Colonization & Support Platforms": [
+        "Deep-Space Colony Vessel",
+        "Resource Processor Ship",
+        "Long-Ark Explorer",
+        "Terraform Engineering Vessel",
+        "Frontier Habitat Seeder"
+      ],
+      "Diplomatic & Cultural Capitals": [
+        "Ambassadorial Harmony Cruiser",
+        "Diplomatic Envoy Barge",
+        "Museum Archive Ship",
+        "Holo-Opera Stage Carrier",
+        "Cultural Hub Cruiser"
+      ]
+    },
+    "Ground Vehicles": {
+      "Military & Security Units": [
+        "Hover-Tank",
+        "All-Terrain Walker",
+        "Armored Personnel Transport",
+        "Ion Shielded Crawler",
+        "Gravity Anchored Howitzer-Rig"
+      ],
+      "Recon & Exploration": [
+        "Desert Skimmer",
+        "Forest Speeder Bike",
+        "Canyon Cliff-Climber",
+        "Swamp Treaded Rover",
+        "Ice-Plateau Scout Sled"
+      ],
+      "Utility & Cargo Haulers": [
+        "Grav-Tractor Hauler",
+        "Solar-Powered Cargo Lifter",
+        "Harvest Mech Walker",
+        "Hydro-Pump Transporter",
+        "Modular Crate Carrier"
+      ],
+      "Urban & Civilian Transport": [
+        "Urban Riot Control Sled",
+        "Market District Hover-Tram",
+        "Ambulance Speeder Unit",
+        "Floating Taxi Prowler",
+        "Refugee Evacuation Bus"
+      ]
+    },
+    "Atmospheric & Racing Craft": {
+      "Commercial & Utility Flyers": [
+        "Urban Taxi Flier",
+        "Atmospheric Survey Skiff",
+        "Aqua-Hover Sled",
+        "Agricultural Spray Plane",
+        "Cargo Glide Blimp"
+      ],
+      "Sporting & Racing Vehicles": [
+        "Podracing Speeder",
+        "Solar Racer Craft",
+        "Wind Tunnel Sailplane",
+        "Jungle Hoverboard",
+        "Holo-Slalom Racing Dart"
+      ],
+      "Exploratory & Research Flyers": [
+        "Thermal Updraft Skimmer",
+        "Fungal Forest Sweeper",
+        "Mag-Lev Observation Skiff",
+        "Cloud-Top Monitoring Drone",
+        "Aurora Sampling Kite"
+      ],
+      "Security & Patrol Craft": [
+        "Perimeter Hover-Guard",
+        "High-Altitude Sentry Glider",
+        "Lighthouse Beacon Flier",
+        "Harbor Patrol Ornithopter",
+        "Treeline Recon Spinner"
+      ]
+    }
+  },
+  "Cultural & Societal Elements": {
+    "Festivals & Celebrations": [
+      "Harvest Moon Festival",
+      "Cyclic Star Commemoration",
+      "Founding Day Revelries",
+      "Cultural Exchange Gala",
+      "Holo-Dramatic Parades",
+      "Crystal Solstice Carnival",
+      "Pilgrim's Sun Dance",
+      "Trader's Market Jubilee",
+      "Peace Accord Anniversary",
+      "Memory Telling Symposium"
+    ],
+    "Currencies & Trade Items": [
+      "Credit Chips",
+      "Gem-Backed Coins",
+      "Energy Tokens",
+      "Food Ration Bars",
+      "Spice Ingots",
+      "Holo-Backed Notes",
+      "Neo-Polymer Credit Slips",
+      "Bio-Gel Exchange Units",
+      "Inter-Union Standard Cubes",
+      "Rare Metal Bars"
+    ],
+    "Languages & Dialects": [
+      "Common Trade Tongue",
+      "Click-Based Language",
+      "Musical Dialect",
+      "Runic Scripted Speech",
+      "Telepathic Lexicon",
+      "Fragmentary Migration Pidgin",
+      "Harmonic Festival Cant",
+      "Arcane Symbolic Whisper",
+      "Data-Tone Compression Speech",
+      "High Court Elocution"
+    ],
+    "Arts & Music": [
+      "Holo-Opera Performances",
+      "Crystal Chime Instruments",
+      "Living Canvas Art",
+      "Interactive Mosaics",
+      "Bio-Luminescent Paintings",
+      "Sound-Weave Fabrics",
+      "Orbital Choral Assemblies",
+      "Symbolic Graffiti Murals",
+      "Resonant Chord Weavings",
+      "Memory Singing Techniques"
+    ],
+    "Philosophies & Belief Systems": [
+      "Cosmic Balance Doctrine",
+      "Rational Minimalism",
+      "Void Worship",
+      "Star Lineage Reverence",
+      "Cycle of Renewal Creed",
+      "Quantum Harmony Ethics",
+      "Ancient Talisman Theories",
+      "Holo-Fable Didacticism",
+      "Pragmatic Stoicism",
+      "Nebular Insight Paths"
+    ],
+    "Cuisine & Gastronomy": [
+      "Fermented Desert Fruit",
+      "Spicy Aquatic Stews",
+      "Engineered Grain Loaves",
+      "Meat from Domesticated Flyers",
+      "Tangy Fungal Pastes",
+      "Stellar Spice Rubs",
+      "Bio-Ferment Brew",
+      "Nutrient Jelly Confections",
+      "Corianderine Root Dishes",
+      "Ionic Flavor Extracts"
+    ],
+    "Traditional Garments": [
+      "Silken Ceremonial Robes",
+      "Nomadic Weather Cloaks",
+      "Radiant Festival Masks",
+      "Armored Clan Tunics",
+      "Holo-Fabric Suits",
+      "Crystal-Etched Headdresses",
+      "Artisan Spinner Wraps",
+      "Hydro-Filament Gowns",
+      "Runed Belt Sashes",
+      "Wind-Glider Wing Cloaks"
+    ]
+  },
+  "Economy & Trade": {
+    "Resource Extraction": [
+      "Ores from Asteroid Mines",
+      "Gas Harvesting Platforms",
+      "Spice Fields",
+      "Exotic Wood Logging",
+      "Rare Crystal Mining",
+      "Ion-Charged Liquid Wells",
+      "Fungal Protein Farms",
+      "Bio-Fuel Filter Marshes",
+      "Deep Core Drilling Rigs",
+      "Hydrothermal Mineral Pools"
+    ],
+    "Trade Routes & Corridors": [
+      "Core-To-Rim Hyperspace Lane",
+      "Secret Smuggler Run",
+      "Pilgrim's Crossroad",
+      "Merchant Convoy Path",
+      "Barrier Reef Channel",
+      "Star-Bridge Trade Spine",
+      "Cloaked Nebula Passage",
+      "Crosswind Resource Corridor",
+      "Guild-Patrolled Line",
+      "Frost Rim Spur"
+    ],
+    "Merchant Guilds & Unions": [
+      "Interstellar Trade Guild",
+      "Freighter Captains' Union",
+      "Fair Commerce Pact",
+      "Artisan Merchant Collective",
+      "Maritime Traders' Lodge",
+      "Holo-Ledger Consortium",
+      "Quality Assurance Council",
+      "Port Authority Alliance",
+      "Guild of Appraisers",
+      "Elemental Broker Circle"
+    ],
+    "Banking & Finance": [
+      "Credit-Lending Houses",
+      "Interstellar Banking Clans",
+      "Commodity Exchange Stations",
+      "Hedging Market Hubs",
+      "Loan Brokerage Firms",
+      "Micro-Credit Habitat Banks",
+      "Stellar Insurance Agencies",
+      "Risk-Adjusted Hedge Houses",
+      "Resource Futures Exchanges",
+      "Cross-Sector Investment Pools"
+    ],
+    "Black Markets & Illicit Trade": [
+      "Shadow Auction Houses",
+      "Hidden Spice Bazaars",
+      "Armament Black Markets",
+      "Clandestine Organ Deals",
+      "Encrypted Deal Nodes",
+      "Counterfeit ID Forges",
+      "Memory Data Black Traders",
+      "Bio-Weapon Smuggle Rings",
+      "Corrupt Dock Channel",
+      "Nightblind Credit Launderers"
+    ]
+  },
+  "History & Eras": {
+    "Ancient Times": [
+      "Pre-Republic Civilizations",
+      "Lost Temple Builders",
+      "Proto-Technology Era",
+      "Mythic Hero-Kings",
+      "Pre-Contact Tribes",
+      "Arcane Artifact Epoch",
+      "Astral Map Founding",
+      "Pre-Credit Trade Systems",
+      "Nebula Lore Keepers",
+      "Proto-Droid Experiments"
+    ],
+    "Old Republic Era": [
+      "Founding of the Republic",
+      "Golden Age of Trade",
+      "Widespread Diplomatic Missions",
+      "Codification of Interstellar Law",
+      "Expansion of Core Worlds",
+      "Millennial Peace Period",
+      "Holo-Vault Preservation",
+      "Cultural Renaissance Years",
+      "Stellar Charter Signing",
+      "Border Stabilization Efforts"
+    ],
+    "Imperial Era": [
+      "Centralized Authoritarian Rule",
+      "Suppression of Alien Rights",
+      "Massive Naval Fleets",
+      "Industrial Overdrive",
+      "Secret Police Networks",
+      "Forced Planetary Relocations",
+      "Uniform Currency Mandates",
+      "Propaganda Education Systems",
+      "Terraforming for Control",
+      "Restricted Hyperlanes"
+    ],
+    "Post-Imperial & Reconstruction": [
+      "Demilitarization Efforts",
+      "Refugee Resettlement",
+      "Cultural Restoration Movements",
+      "Truth & Reconciliation Councils",
+      "Border Redrawal",
+      "Infrastructure Rebuilding",
+      "Holo-Net Reconnection",
+      "Diplomatic Healing Summits",
+      "Civic Cultural Exchanges",
+      "Trade Normalization Pacts"
+    ],
+    "Mandalorian Wars & Conflicts": [
+      "Clan Skirmishes",
+      "Beskar Armor Innovations",
+      "Mercenary Alliances",
+      "Cultural Diaspora",
+      "Warrior Code Reformations",
+      "Honor Duel Protocols",
+      "Frontier Raider Incursions",
+      "Anti-Mandalorian Coalitions",
+      "Nomadic Fleet Assemblies",
+      "Wartime Relic Smuggling"
+    ],
+    "High Republic & Renaissance": [
+      "Philosophical Resurgence",
+      "Artistic Golden Age",
+      "Holo-Net Expansion",
+      "Diplomatic Renaissance",
+      "Prosperous Outer Colonies",
+      "Scholastic Embassies",
+      "Techno-Ethical Councils",
+      "Cultural Fusion Feasts",
+      "Interfaith Knowledge Collectives",
+      "Soft Power Diplomacy"
+    ]
+  },
+  "Military & Conflict": {
+    "Mercenary Groups": [
+      "Hired Gunslingers",
+      "Elite Shock Troops",
+      "Nomadic Warrior Bands",
+      "Privateer Merc Corps",
+      "Cyber-Enhanced Commandos",
+      "Blaster Lancer Cadres",
+      "Battle-Drift Experts",
+      "Void-Boarding Marines",
+      "Plasma Spear Companies",
+      "Infiltration Strike Teams"
+    ],
+    "Pirate Fleets": [
+      "Corsair Brigands",
+      "Marauder Warlords",
+      "Asteroid Hideout Pirates",
+      "Deep-Space Ambushers",
+      "Rift Passage Raiders",
+      "Holo-Trap Corsairs",
+      "Cloaked Engine Cutters",
+      "Loot-Sorting Salvagers",
+      "Ship-Jacker Crews",
+      "Nebula Snare Marauders"
+    ],
+    "Planetary Militias": [
+      "Local Defense Volunteers",
+      "City Guard Units",
+      "Tribal Watchgroups",
+      "Frontier Garrison",
+      "Settler Protection Corps",
+      "Undersea Sentry Bands",
+      "Mountain Ranger Patrols",
+      "Desert Survival Brigades",
+      "Spice Field Guards",
+      "Core Market Watchmen"
+    ],
+    "Mandalorian Clans": [
+      "Armor-Forger Houses",
+      "Nomadic Hunter Clans",
+      "Mercenary Contracts",
+      "Honor-Duel Traditions",
+      "Vigilant Frontier Watch",
+      "Forge Council Gatherers",
+      "Bounty War Alliances",
+      "Wandering Shield Menders",
+      "Clan Feasting Bands",
+      "Spiral Helm Legacies"
+    ],
+    "Defense & Security Forces": [
+      "Border Patrol Frigates",
+      "Anti-Piracy Taskforce",
+      "Minefield Operators",
+      "Fortress World Defenders",
+      "Mobile Response Units",
+      "Interdiction Sloop Wings",
+      "Asteroid Guard Stations",
+      "Rapid Deployment Corps",
+      "Energy Shield Brigades",
+      "Crisis Negotiation Teams"
+    ]
+  },
+  "Myth & Religion": {
+    "Force-Related Traditions": [
+      "Mystic Seers",
+      "Balance Seekers",
+      "Nature-Channeling Hermits",
+      "Cosmic Harmony Cultists",
+      "Ancient Visionaries",
+      "Crystal Meditation Sects",
+      "Star-Dream Interpreters",
+      "Tidal Force Adepts",
+      "Ancestral Jedi Echoes",
+      "Moonshadow Contemplatives"
+    ],
+    "Non-Force Spirituality": [
+      "Elemental Ancestral Faith",
+      "Sun-Worshipping Creed",
+      "Moon-Harvest Rites",
+      "Ancestor Idol Shrines",
+      "Star Oracle Diviners",
+      "Harmonic Talisman Circles",
+      "Festival of Nebula Gods",
+      "Sand Whisperer Altars",
+      "Stormcaller Totem Dances",
+      "Meteor Skywatch Lore"
+    ],
+    "Superstitions & Folk Tales": [
+      "Ghost Ship Legends",
+      "Solar Eclipse Omens",
+      "Comet Born Prophecies",
+      "Rune Reading Mystics",
+      "Behemoth Beast Myths",
+      "Starfall Doom Stories",
+      "Eternal Storm Folklore",
+      "Aurora Omen Sketches",
+      "Gravitic Whisper Rumors",
+      "Cosmic Worm Fables"
+    ],
+    "Pilgrimages & Holy Sites": [
+      "Sacred Meteor Crater",
+      "Cleansing Spring Temple",
+      "Star Alignment Observatory",
+      "Burial Grounds of Heroes",
+      "Whispering Cavern of Echoes",
+      "Life-Tree Sanctuary",
+      "Crystal Chime Chapel",
+      "Cosmic Confluence Arches",
+      "Transcendent Spore Mound",
+      "Silent Grove Monastery"
+    ],
+    "Local Deities & Demi-Gods": [
+      "Mountain Guardian Spirits",
+      "Ocean Depth Lords",
+      "Sky Dancer Deities",
+      "Beast Tamers of Lore",
+      "Void Whisper Gods",
+      "Storm Beast Patrons",
+      "Choral Echo Guardians",
+      "Fungal Field Protectors",
+      "Astral Shepherd Idols",
+      "Comet Tail Messengers"
+    ]
+  },
+  "Architecture & Infrastructure": {
+    "Urban Cityscapes": [
+      "Sprawling Megacity",
+      "Skyscraper Hive",
+      "Layered Urban Arcologies",
+      "Sun-Dome Resort City",
+      "Holo-Advert District",
+      "Undercity Tube Network",
+      "Gravity-Pier Tower Blocks",
+      "Neon Cultural Plaza",
+      "Artisan Quarter Mosaics",
+      "Bio-Tunnel Marketways"
+    ],
+    "Floating & Aerial Habitats": [
+      "Cloud City Platforms",
+      "Suspended Gardens",
+      "Anti-Gravity Farms",
+      "High-Altitude Observatories",
+      "Soaring Wind Turbines",
+      "Hovering Shield Domes",
+      "Storm Cloud Sanctuaries",
+      "Floating Parabolic Temples",
+      "Balloon-Anchor Hamlets",
+      "Holo-Bridge Networks"
+    ],
+    "Underwater Domes & Enclaves": [
+      "Submersible Habitat Domes",
+      "Undersea Research Stations",
+      "Aquatic Trade Pavilions",
+      "Seabed Artifact Archives",
+      "Coral Dome Towns",
+      "Jelly-Pod Commuter Lines",
+      "Hydrothermal Lecture Halls",
+      "Bio-Reflective Bubble Quarters",
+      "Marine Observatory Spheres",
+      "Currents-Driven Market Halls"
+    ],
+    "Desert Outposts & Forts": [
+      "Sand-Buried Stations",
+      "Rocky Cliff Settlements",
+      "Solar Collector Farms",
+      "Well Oasis Towns",
+      "Dust Storm Shelters",
+      "Burrowed Vault Bunkers",
+      "Heat-Diffusion Cloisters",
+      "Mirage-Shielded Strongholds",
+      "Caravan Rest Cantons",
+      "Salt Flat Defensive Posts"
+    ],
+    "Jungle & Forest Settlements": [
+      "Canopy Villages",
+      "Tree-Bridge Townships",
+      "Bioluminescent Forest Hubs",
+      "Root-Communal Shelters",
+      "Hidden Herbalist Camps",
+      "Mossy Skywalks",
+      "Seed Pod Council Chambers",
+      "Vine-Grown Watchposts",
+      "Mushroom Dome Homesteads",
+      "Bio-Nest Complexes"
+    ]
+  },
+  "Notable Figures & Classes": {
+    "Smugglers & Traders": [
+      "Spice Smuggler",
+      "Black Market Broker",
+      "Hyperlane Cartographer",
+      "Independent Merchant",
+      "Blockade Runner",
+      "Data-Fence Whisperer",
+      "Obscure Artifacts Hawker",
+      "Gravity Slingshot Courier",
+      "Asteroid Salvage Trader",
+      "Holo-Keeper Middleman"
+    ],
+    "Bounty Hunters & Trackers": [
+      "Precision Marksman",
+      "Beast Tracker",
+      "Cyber-Augmented Hunter",
+      "Rogue Droid Chaser",
+      "Subspace Interceptor",
+      "Thermal Scope Sniper",
+      "Stealth Net Trapper",
+      "Bio-Tag Tracker",
+      "Force-Negation Hunter",
+      "Toxin Dart Specializer"
+    ],
+    "Diplomats & Negotiators": [
+      "Ambassadorial Envoy",
+      "Treaty Mediator",
+      "Cultural Liaison",
+      "Trade Deal Negotiator",
+      "Conflict Resolution Expert",
+      "Language Bridge Officer",
+      "Peace Charter Drafter",
+      "Ethics Council Advocate",
+      "Border Talk Emissary",
+      "Alliance Harmonizer"
+    ],
+    "Explorers & Scouts": [
+      "Star Cluster Surveyor",
+      "Wild Planet Pathfinder",
+      "Space Anomaly Researcher",
+      "Hyperspace Lane Pioneer",
+      "Lost Civilization Seeker",
+      "Eco-Zone Mapper",
+      "Terraform Study Pilot",
+      "Nebula Probe Operator",
+      "Precursor Ruin Diver",
+      "Frontier Data Harvester"
+    ],
+    "Scholars & Healers": [
+      "Archivist Monk",
+      "Linguistic Scholar",
+      "Medical Specialist",
+      "Herbal Healer",
+      "Technological Historian",
+      "Force Lore Chronicler",
+      "Cultural Memory Keeper",
+      "Psycho-Social Healer",
+      "Holo-Library Curator",
+      "Gene Sequence Analyzer"
+    ]
+  },
+  "Natural Phenomena & Environments": {
+    "Astronomical Features": [
+      "Binary Star Systems",
+      "Rogue Planets",
+      "Pulsar Signal Points",
+      "Wormhole Apertures",
+      "Cosmic Dust Clouds",
+      "Ion Storm Regions",
+      "Nebula Growth Pods",
+      "Dark Matter Veils",
+      "Holo-Footprint Quasars",
+      "Stellar Forge Clusters"
+    ],
+    "Nebulae & Gas Clouds": [
+      "Ionized Nebula Fields",
+      "Gas Mining Regions",
+      "Hallucinogenic Spore Clouds",
+      "Electromagnetic Storm Clouds",
+      "Refraction Nebulae",
+      "Bio-Synth Gas Banks",
+      "Chromatic Particle Gardens",
+      "Anti-Gravity Vortex Puffs",
+      "Pheromone Mist Shoals",
+      "Stasis Vapor Drifts"
+    ],
+    "Asteroid Fields & Belts": [
+      "Dense Ore Asteroid Belt",
+      "Treacherous Pirate Hideaway Field",
+      "Icy Comet Clusters",
+      "Mine-Claimed Asteroid Region",
+      "Holo-Beacon Drift Zone",
+      "Shatter-Fragment Fields",
+      "Bio-Mold Asteroid Habs",
+      "Holo-Reflective Rock Belts",
+      "Grav-Shard Deposits",
+      "Ancient Impact Craters"
+    ],
+    "Exotic Weather & Storms": [
+      "Ion Tempests",
+      "Plasma Lightning Discharges",
+      "Aurora Rainfalls",
+      "Magnetic Windstorms",
+      "Sonic Shockfronts",
+      "Acidic Vapor Showers",
+      "Thermal Inversion Gales",
+      "Glitterdust Breezes",
+      "Tectonic Quake Bursts",
+      "Frozen Vapor Maelstroms"
+    ],
+    "Living & Semi-Sentient Worlds": [
+      "Biotic Planetary Minds",
+      "Forest-Hive Ecosystems",
+      "Symbiotic Coral Planets",
+      "Mycelial Network Worlds",
+      "Crystal Consciousness Spheres",
+      "Flora-Directed Evolution Planets",
+      "Pulsating Psychic Reefs",
+      "Solar-Fed Flower Fields",
+      "Element-Tuned Gaia Worlds",
+      "Living Mineral Arches"
+    ]
+  },
+  "Resources & Materials": {
+    "Minerals & Metals": {
+      "Common Ores & Base Metals": [
+        "Durasteel Ore",
+        "Ion-Charged Iron",
+        "Light Alloy Copper-Vein",
+        "Holo-Refined Aluminum Flakes",
+        "Manganese-Mix Nodules",
+        "Zinc-Bound Ore Clusters",
+        "Silicon-Based Metallic Sand",
+        "Vanadium Shard Deposits",
+        "Cobalt-Infused Iron Ore",
+        "Boron Carbide Pellets"
+      ],
+      "Precious & Rare Elements": [
+        "Kyber Crystal Shards",
+        "Photonic Gemstones",
+        "Hyperconductive Alloy Nuggets",
+        "Memory Metal Ingots",
+        "Aurora-Phase Platinum",
+        "Gem-Backed Baradium Specks",
+        "Iridium-Infused Jewels",
+        "Rhodium Stasis Drops",
+        "Quantum-Neutrino Crystals",
+        "Subspace-Resonant Diamonds"
+      ],
+      "Ceramics & Exotic Minerals": [
+        "Armor-Grade Ceramics",
+        "Grav-Powder Dust",
+        "Flare Quartz",
+        "Bio-Reactive Clays",
+        "Thermal Composite Granules",
+        "Chameleon Silicates",
+        "Pressure-Formed Obsidian Glass",
+        "Electro-Ceramic Rods",
+        "Ion-Absorbent Porcelain",
+        "Holographic Reflector Crystals"
+      ]
+    },
+    "Flora & Fauna Resources": {
+      "Edible & Nutritional Flora": [
+        "Nutrient-Rich Moss",
+        "Synth-Fiber Bark Strips",
+        "High-Protein Insect Swarms",
+        "Starch-Tubers of Oasis Fields",
+        "Marrow-Fern Roots",
+        "Jungle Leaf Meal Packs",
+        "Aqua-Marrow Fungi",
+        "Terra-Grain Pods",
+        "Sweet Vanta-Honeydew",
+        "Fungal Nut Clusters"
+      ],
+      "Medicinal & Alchemical Plants": [
+        "Medicinal Mushrooms",
+        "Spice Bloom Flowers",
+        "Aroma-Herb Pods",
+        "Dewberry Regenerative Leaves",
+        "Psi-Active Lotus Petals",
+        "Nightshade Ether-Stalks",
+        "Bacta-Sap Shrub Saplings",
+        "Chime Orchards Antitoxin Blossoms",
+        "Anti-Fungal Root Caps",
+        "Eldritch Dewdrops"
+      ],
+      "Animal Derivatives & Byproducts": [
+        "Hunter-Beasts for Pelts",
+        "Bio-Luminescent Vines (hosted by symbiotic fauna)",
+        "Chitin Shell Fragments",
+        "Force-Touched Beast Horns",
+        "Spine-Fibre Silk (from larval worms)",
+        "Dried Wing-Powder from Avian Species",
+        "Glowfish Oil Extracts",
+        "Mollusk Pearl Glands",
+        "Desert Lizard Hide",
+        "Space Whale Ambergris"
+      ],
+      "Structural & Utility Organics": [
+        "Fruitful Chime Orchards Wood",
+        "Synth-Fiber Reeds",
+        "Holo-Forest Vine Tissues",
+        "Mycelial Strand Ropes",
+        "Bio-Composite Bark Panels",
+        "Aromatic Resin Waxes",
+        "Coral Framework Husks",
+        "Nectar-Welded Plant Fibers",
+        "Thorn-Shell Lumber",
+        "Crystalline Pollen Dust"
+      ]
+    },
+    "Energy & Fuel Sources": {
+      "Conventional & Engineered Fuels": [
+        "Fusion Reactor Pellets",
+        "Ion Battery Reservoirs",
+        "Tibanna Gas Canisters",
+        "Refined Hypergolic Liquids",
+        "Compressed Reactor Rods",
+        "Polymerized Fuel Cubes",
+        "Ferro-Hydro Cartridges",
+        "High-Density Plasma Globes",
+        "Liquid Energy Suspensions",
+        "Gravity Well Fuel Cells"
+      ],
+      "Renewable & Sustainable Sources": [
+        "Solar Collectors",
+        "Wind Resonance Generators",
+        "Thermal Vent Taps",
+        "Bio-Fuel Crops",
+        "Algae-Pod Energy Soup",
+        "Tidal Wave Harnessers",
+        "Stellar Bloom Petals (solar-dye material)",
+        "Biolum Insect Dynamo Farms",
+        "Glacier Melt Turbines",
+        "Geothermal Crystal Wells"
+      ],
+      "Exotic & High-Energy Materials": [
+        "Subspace Energy Wells",
+        "Holo-Crystal Cores",
+        "Darkspin Turbines",
+        "Zero-Point Extractors",
+        "Quantum Flux Capacitors",
+        "Aetheric Singularity Nodes",
+        "Neutrino Funnel Strips",
+        "Anti-Matter Dust Capsules",
+        "Phase-Shifting Plasma Flasks",
+        "Ion Storm Bottled Charges"
+      ],
+      "Storage & Conversion Systems": [
+        "Kinetic Recharge Packs",
+        "Thermal Accumulator Cells",
+        "Holo-Capacitor Arrays",
+        "Bio-Enzyme Power Converters",
+        "Psionic Resonance Battery",
+        "Graviton Compression Tanks",
+        "Photoelectric Sponge Membranes",
+        "Molecular Charge Coils",
+        "Force-Etched Energy Condensers",
+        "Regenerative Storage Shells"
+      ]
+    },
+    "Luxury & Exotic Goods": {
+      "Perfumes & Aromatics": [
+        "Rare Perfumes",
+        "Pheromone Extracts",
+        "Void-Distilled Liquors (aromatic)",
+        "Rose-Gel Incense Pods",
+        "Jungle Orchid Fragrances",
+        "Spice-Infused Resins",
+        "Sulfuric Musk Oils",
+        "Transcendent Floral Essences",
+        "Pollen-Fog Mist Bottles",
+        "Deep-Coral Essence Drops"
+      ],
+      "Fabrics, Textiles & Art Materials": [
+        "Holo-Fabric Rolls",
+        "Choral Silk Sheets",
+        "Symphony-Gems (for jewelry craft)",
+        "Aurora Glow Jewels",
+        "Luminous Spider-Silk Threads",
+        "Carved Ivory Petals",
+        "Orbital Weave Tapestries",
+        "Radiant Crystal Inlays",
+        "Meteorite-Shard Cameos",
+        "Phosphorescent Clay Statues"
+      ],
+      "Culinary & Esoteric Delicacies": [
+        "Cerebral Wine",
+        "Cloned Exotic Spices",
+        "Psionic Artifacts (edible brain-coral)",
+        "Starfruit Champagne",
+        "Marrow-Nectar Shots",
+        "Lunar Berry Compote",
+        "Moss-Ferment Spirits",
+        "Cosmic Sea Salt Flakes",
+        "Frozen Nebula Candy",
+        "Fey Honeydew Orbs"
+      ],
+      "Cultural & Artistic Artifacts": [
+        "Holo-Paint Pigments",
+        "Ancestral Carved Beads",
+        "Runic Metal Artwork",
+        "Force-Imbued Woodcarvings",
+        "Historical Clay Scrolls",
+        "Sun-Crested Metal Filigree",
+        "Gem-Lit Choral Lamps",
+        "Ceremonial Feather Headdresses",
+        "Mosaic Memory Tiles",
+        "Binary Verse Leaflets"
+      ]
+    },
+    "Industrial Raw Materials": {
+      "Structural Metals & Polymers": [
+        "Heavy Polymers",
+        "Refractory Alloys",
+        "Nano-Fabric Base",
+        "High-Tensile Monofilament Reels",
+        "Aero-Grade Steel Sheets",
+        "Vacuum-Hardened Beam Girders",
+        "Hyperdense Tungsten Ingots",
+        "Duraplast Panels",
+        "Kinetic Absorption Mesh",
+        "Pressure-Stone Bricks"
+      ],
+      "Electronic & Conductive Components": [
+        "High-Conductivity Wire",
+        "Smart Circuits",
+        "Bio-Filament Threads",
+        "Quantum Data Rods",
+        "Crystal Phase Conductors",
+        "Ion-Compliant Connector Grains",
+        "Holo-Matrix Cores",
+        "Subneural Chip Boards",
+        "Nano-Fuse Transistors",
+        "Photon-Flux Relays"
+      ],
+      "High-Temp & Specialty Substances": [
+        "Armor-Grade Ceramics",
+        "Heat Sink Carbon Blocks",
+        "Plasma-Freeze Aerogels",
+        "Radiation-Shielding Foams",
+        "Magma-Forged Slag",
+        "Electro-Hardening Fluids",
+        "Thermal Shock Powders",
+        "Crystalline Refractors",
+        "Molecular Bond Adhesives",
+        "Darkmatter-Resilient Coatings"
+      ],
+      "Chemical & Reactive Materials": [
+        "Acidic Regolith Dust",
+        "Corrosion-Resistant Lacquer",
+        "Toxic Gas Capsules (for industrial use)",
+        "Catalytic Enzyme Pellets",
+        "Bio-Slurry Lubricants",
+        "Oxygenation Bead Packs",
+        "Ion-Exchange Resins",
+        "Phase-Change Coolants",
+        "Solar-Therm Catalyst Bars",
+        "Geo-Extraction Salts"
+      ]
+    }
+  },
+  "Artifacts & Relics": {
+    "Pre-Republic Artifacts": [
+      "Ancient Starmaps",
+      "Ornate Mask Relics",
+      "Proto-Language Tablets",
+      "Giant Stone Idols",
+      "Obsolete Engine Parts",
+      "Holo-Rune Charms",
+      "Tributary Stele Shards",
+      "Crystal Echo Diagrams",
+      "Songsteel Drum Circles",
+      "Old Republic Key Dials"
+    ],
+    "Force-Related Holocrons": [
+      "Balance Holocron",
+      "Knowledge Repository Cube",
+      "Meditation Prism",
+      "Lost Waystone",
+      "Healer's Crystal Databank",
+      "Star-Whisper Matrix",
+      "Duality Logic Holocron",
+      "Cosmic Resonance Cube",
+      "Farsight Echo Sphere",
+      "Force Harmony Index"
+    ],
+    "Sith & Dark Relics": [
+      "Cursed Blade Shard",
+      "Nightmare Talisman",
+      "Obsidian Cipher Staff",
+      "Whispering Helm",
+      "Shadowbound Amulet",
+      "Blood-Runed Tablet",
+      "Soul-Tethering Ring",
+      "Ember of Vengeance",
+      "Hate-Wrought Sigil",
+      "Toxin Veil Dagger"
+    ],
+    "Jedi & Light Relics": [
+      "Wisdom Kyber Staff",
+      "Song of Harmony Holoscroll",
+      "Sun-Tempered Pendant",
+      "Garden Seed Urn",
+      "Holo-Chart of Peace",
+      "Crystal Lattice Balm",
+      "Starlit Yoke Fragment",
+      "Unity Braid Bracelet",
+      "Purity-Flow Amulet",
+      "Celestial Feather Quill"
+    ],
+    "Mandalorian & Cultural Heirlooms": [
+      "Clan Beskar Ingot",
+      "Ancient War Horn",
+      "Ceremonial Helm Crest",
+      "Ancestral Shield Plate",
+      "Runed Blade Fragment",
+      "Clan Totem Carving",
+      "Forge-Song Chain",
+      "Honor Duel Token",
+      "Holo-Record of Oaths",
+      "Shield-Flare Insignia"
+    ]
+  },
+  "Interstellar Events & Encounters": {
+    "Diplomatic Summits": [
+      "Peace Conference Dome",
+      "Inter-Union Council",
+      "Treaty Signing Ceremony",
+      "Ambassadorial Dining Hall",
+      "Cultural Exchange Pavilion",
+      "Neutral Starboard Talks",
+      "Factions' Harmony Summit",
+      "Holo-Brokered Accord",
+      "Trade Pact Exhibition",
+      "Quarantine Border Meetings"
+    ],
+    "Trade & Commerce Fairs": [
+      "Grand Market Expo",
+      "Resource Auction Event",
+      "Interstellar Trade Show",
+      "Merchant Conference Orbital",
+      "Artisan Guild Showcase",
+      "Spice & Grain Festival",
+      "Holo-Catalog Swap",
+      "Multi-Guild Competition",
+      "Fair-Trade Charter Signing",
+      "Resource Sharing Bazaar"
+    ],
+    "War & Conflict Negotiations": [
+      "Cease-Fire Discussion",
+      "Concession Stand-Off",
+      "Armistice Draft Meeting",
+      "Neutral Mediator Venue",
+      "Prisoner Exchange Grounds",
+      "Holo-Arbitration Platform",
+      "Witnessed Parley Fields",
+      "Peace Stone Negotiation",
+      "Clan Truce Lodge",
+      "No-Fly Zone Forum"
+    ],
+    "Cultural & Artistic Exchanges": [
+      "Holo-Opera Festival",
+      "Cross-Species Music Workshop",
+      "Language Symposium",
+      "Historical Artifact Exhibition",
+      "Philosophical Debate Forum",
+      "Art Fusion Showcase",
+      "Cuisine Fusion Night",
+      "Holo-Tale Retelling",
+      "Interfaith Ceremony",
+      "Dances of the Nebula"
+    ],
+    "Exploratory & Research Missions": [
+      "Deep-Core Survey Team",
+      "Bio-Diversity Expedition",
+      "Astro-Navigation Mapping",
+      "Cosmic Phenomena Study",
+      "Frontier Archeology Dig",
+      "Terraform Test Flight",
+      "Wormhole Stability Analysis",
+      "Nebula Drift Sample Run",
+      "Precursor Tech Excavation",
+      "Graviton Field Scan"
+    ]
+  },
+  "Socio-Political Issues & Themes": {
+    "Colonization Conflicts": [
+      "Indigenous Resistance",
+      "Corporate Land Grabs",
+      "Terraforming Disputes",
+      "Resource Scarcity Uprising",
+      "Cultural Preservation Efforts",
+      "Anti-Assimilation Movement",
+      "Clandestine Guerrilla Actions",
+      "Ethical Settler Debates",
+      "Migratory Safe Havens",
+      "Repatriation Missions"
+    ],
+    "Resource Disputes & Crises": [
+      "Ore-Rich Moon Rivalry",
+      "Spice Harvest Limitation",
+      "Water Scarcity Negotiations",
+      "Fuel Hoarding Syndicates",
+      "Environmental Degradation",
+      "Credit Inflation Panics",
+      "Quarantine Zone Blockades",
+      "Unionized Worker Revolts",
+      "Blackout Energy Shortages",
+      "Asteroid Claim Wars"
+    ],
+    "Cultural Assimilation & Tension": [
+      "Refugee Integration Strife",
+      "Language Standardization Attempts",
+      "Traditional Ritual Suppression",
+      "Multi-Ethnic Council Debates",
+      "Artistic Heritage Reclamation",
+      "Xenophobic Isolation Cells",
+      "Holo-Propaganda on Identity",
+      "Caste-Barrier Challenges",
+      "Heritage Archive Disputes",
+      "Renegade Cultural Fusions"
+    ],
+    "Autonomous & Border Regions": [
+      "Independent Frontier States",
+      "Buffer Zone Settlements",
+      "Unaligned Trading Worlds",
+      "Self-Governing Stations",
+      "Culturally Sovereign City-States",
+      "Free-Trade Frontier Clans",
+      "Interstice Habitat Republics",
+      "Non-Aligned Planet Rings",
+      "Orbital Baronies",
+      "Confidential Border Pacts"
+    ],
+    "Inter-Species Relations": [
+      "Treaties on Interbreeding",
+      "Mutual Defense Pacts",
+      "Cultural Rivalry Alliances",
+      "Habitat Access Negotiations",
+      "Historic Diplomatic Feuds",
+      "Inter-Faith Gene Pools",
+      "Mixed-Heritage Councils",
+      "Xeno-Adoption Tribunals",
+      "Shared Ritual Foundations",
+      "Resource Co-Management"
+    ]
+  },
+  "Underworld & Criminal Elements": {
+    "Spice Cartels": [
+      "Desert Spice Masters",
+      "Coral Reef Refiners",
+      "Urban Spice Cutters",
+      "Black Market Additive Labs",
+      "Overland Smuggling Routes",
+      "Holo-Scent Spice Lounges",
+      "Dune Cultivator Gangs",
+      "Crystal Spice Craftsmen",
+      "Cutthroat Flavor Syndicates",
+      "Refinery Dealing Rings"
+    ],
+    "Pirate Crews & Gangs": [
+      "Hyperspace Raiders",
+      "Ion Net Trappers",
+      "Canyon Hideout Gang",
+      "Holo-Masked Marauders",
+      "Tech-Scrapper Pirate Band",
+      "Star Cloak Brigade",
+      "Hull-Slicer Renegades",
+      "Quantum Distortion Lurkers",
+      "Force-Dampener Captors",
+      "Star Chart Thieves"
+    ],
+    "Smuggler Rings & Networks": [
+      "Shadowrunner Syndicate",
+      "Encrypted Courier Group",
+      "Stealth Freighter Chain",
+      "Contraband Exchange Hub",
+      "Borderline Runner Corps",
+      "Bio-Compartmentalization Crew",
+      "Chameleon Hull Runners",
+      "Holo-Camouflage Freight",
+      "Signal Jam Gangs",
+      "Quiet Drift Operators"
+    ],
+    "Assassin Guilds": [
+      "Poison Dart Circle",
+      "Silent Holo-Blade Order",
+      "Pressure-Point Masters",
+      "Lightless Alley Killers",
+      "Nano-Toxin Specialists",
+      "Bio-Trace Hunters",
+      "Holo-Shadow Stabbers",
+      "Refraction Sniper Cabal",
+      "Terror-Whisper Collective",
+      "Cloaked Fang Syndicate"
+    ],
+    "Gambling Dens & Rackets": [
+      "Holo-Casino Barges",
+      "Credit Laundering Clubs",
+      "Rigged Racing Events",
+      "High-Stakes Dice Parlors",
+      "Holographic Sports Betting",
+      "Neural Pattern Casinos",
+      "Exotic Beast Fight Rings",
+      "Secret Auction Parlors",
+      "Quantum Lottery Fraud",
+      "Misinformation Betting Pools"
+    ]
+  },
+  "Entertainment & Leisure": {
+    "Holo-Dramas & Theater": [
+      "Epic Saga Reenactments",
+      "Multi-Species Improv Shows",
+      "Ancient Myth Plays",
+      "Interactive Holo-Stories",
+      "Diplomatic Comedy Acts",
+      "Bio-Sensory Theatrics",
+      "Subspace Puppet Shows",
+      "Holo-Virtual Operas",
+      "Resonant Choral Dramas",
+      "Avant-Garde Symbol Plays"
+    ],
+    "Sporting & Racing Events": [
+      "Podracing Grand Prix",
+      "Starfighter Acrobatics",
+      "Void-Surfing Competition",
+      "Asteroid Belt Obstacle Runs",
+      "Rooftop Chase Challenges",
+      "Zero-G Kickball Matches",
+      "Pulse-Beam Fencing",
+      "Sunspot Shield Games",
+      "Wind Tunnel Races",
+      "Undersea Current Sprints"
+    ],
+    "Gambling & Leisure Activities": [
+      "Holo-Poker Tournaments",
+      "Cultural Board Game Nights",
+      "Psychic Guessing Matches",
+      "Glitterstim Tasting Parlors",
+      "Wormhole Roulette",
+      "Reflection Pool Psychic Test",
+      "Chorus Guessing Games",
+      "Magnetic Disk Toss",
+      "Miniature Galaxy Puzzles",
+      "Crystal Ball Fortune Bets"
+    ],
+    "Exotic Zoos & Beast Shows": [
+      "Bio-Dome Menageries",
+      "Telepathic Creature Exhibits",
+      "Undersea Beast Parades",
+      "Migratory Swarm Viewing",
+      "Singing Avian Concerts",
+      "Mammoth Shell Caravans",
+      "Pheromone Beast Displays",
+      "Nocturnal Beast Glow Shows",
+      "Symbiotic Beast Ballet",
+      "Forest-Tamer Showcase"
+    ],
+    "Culinary Fairs & Markets": [
+      "Interstellar Food Bazaar",
+      "Fusion Cuisine Workshop",
+      "Carnivorous Plant Tasting",
+      "Sweet Syrup Festivals",
+      "Aquatic Delicacy Sampling",
+      "Bio-Vat Gourmet Stands",
+      "Desert Fruit Contest",
+      "Holo-Chef Cooking Battles",
+      "Fermenter's Guild Showdown",
+      "Herbal Spice Exchange"
+    ]
+  },
+  "Agriculture & Terraforming": {
+    "Hydroponic Farms": [
+      "Vertical Greenhouse Towers",
+      "Subsoil Nutrient Farms",
+      "Bio-Lab Crop Domes",
+      "Solar-Grown Grain Fields",
+      "Gene-Tweaked Fruits",
+      "Nutrient Misting Tubes",
+      "Lunar Hydro-Core Gardens",
+      "Narrowband Light Farms",
+      "Crystal Siphon Vats",
+      "Sporebed Columns"
+    ],
+    "Terraforming Projects": [
+      "Atmosphere Enhancement Arrays",
+      "Aquifer Drilling Operations",
+      "Pollution Filter Forests",
+      "Desert Greening Ops",
+      "Climate Control Satellites",
+      "Sunshadow Shield Deployments",
+      "Polar Ice Seed Missions",
+      "Tectonic Stabilizer Platforms",
+      "Holo-Climate Integration",
+      "Windshear Mitigation Systems"
+    ],
+    "Ranching & Herding": [
+      "Flying Beast Pastures",
+      "Wool Moth Farms",
+      "Aquatic Coral Ranches",
+      "Burrowing Herbivore Pens",
+      "Swamp Lizard Herding",
+      "Hover-Herd Tenders",
+      "Ion-Bridled Creature Ranges",
+      "Forest Vine Shepherds",
+      "Mountain Grazer Terraces",
+      "Bacta Field Livestock"
+    ],
+    "Gene-Edited Crops": [
+      "Frost-Resistant Wheat",
+      "Nutrient-Dense Tubers",
+      "Light-Fed Fungal Mats",
+      "Aroma-Enhanced Beans",
+      "Insect-Proof Leafy Greens",
+      "Solar-Plump Vines",
+      "Sponge-Starch Berries",
+      "Planet-Specific Rice Strains",
+      "Liquid-Infused Seedpods",
+      "Enzyme-Rich Oxygen Pods"
+    ],
+    "Sustainable Agricultural Movements": [
+      "Biodiversity Initiatives",
+      "Anti-GMO Debates",
+      "Planetary Crop Rotation Pacts",
+      "Organic Farming Enclaves",
+      "Agri-Tech Research Labs",
+      "Green Gene Councils",
+      "Seed Share Networks",
+      "Holo-Farmer Education",
+      "Water-Recycling Guilds",
+      "Interstellar Agri-Fair"
+    ]
+  },
+  "Educational & Scholarly Institutions": {
+    "Universities & Academies": [
+      "Interdisciplinary Astro-Academy",
+      "Cultural Exchange University",
+      "Tech-Engineering Institute",
+      "Holocron Study College",
+      "Culinary Arts Conservatory",
+      "Quantum Ethics Department",
+      "Bio-Architectural School",
+      "Diplomatic Training House",
+      "Force Philosophy Institute",
+      "Xeno-Medicine Campus"
+    ],
+    "Archives & Libraries": [
+      "Galactic Archive Towers",
+      "Ancient Scroll Depositories",
+      "Holo-Text Vaults",
+      "Encrypted Knowledge Banks",
+      "Living Memory Gardens",
+      "Mosaic Data Panels",
+      "Rotating Codex Chambers",
+      "Time-Seal Catalog Halls",
+      "Language Fusion Hall",
+      "Ancestral Scroll Banks"
+    ],
+    "Research & Development Labs": [
+      "Cybernetic Enhancement Lab",
+      "Subspace Physics Think-Tank",
+      "Genome Decoding Facility",
+      "Nano-Device Prototype Center",
+      "Star Mapping Institute",
+      "Holo-Architecture Labs",
+      "Terraform Test Chambers",
+      "Material Stress Research Node",
+      "Biotech Pattern Incubator",
+      "Anti-Gravity Trial Vault"
+    ],
+    "Force-Neutral Learning Centers": [
+      "Psionic Sensitivity Schools",
+      "Philosophical Debate Circles",
+      "Diplomatic Etiquette Classes",
+      "Mediation & Conflict Resolution Institutes",
+      "Artisan Skill Workshops",
+      "Universal History Salons",
+      "Ritual Observation Groups",
+      "Logic and Reason Guilds",
+      "Skeptics’ Discussion Clubs",
+      "Cultural Exchange Labs"
+    ],
+    "Artisan & Craft Guilds": [
+      "Holo-Sculptor Cooperative",
+      "Crystal-Carving Guild",
+      "Shipwright Artisan Clan",
+      "Glassblower Society",
+      "Textile Pattern Designers",
+      "Biomechanic Craft Circle",
+      "Metal Engraving Alliance",
+      "Bio-Luminescent Painter Dens",
+      "Music Designer Collectives",
+      "Ancient Masonry League"
+    ]
+  },
+  "Medical & Biotechnology": {
+    "Cloning Facilities": [
+      "Gene Replication Vats",
+      "Template Strain Repositories",
+      "Quality-Controlled Clone Nurseries",
+      "Custom Bio-Order Labs",
+      "Hybrid Species Experiments",
+      "Trait Stabilization Houses",
+      "Memory Imprint Centers",
+      "Adaptive Genetic Refineries",
+      "Anti-Virus Clone Lines",
+      "Species Revival Chambers"
+    ],
+    "Cybernetic Clinics": [
+      "Neural Implant Salons",
+      "Bionic Limb Fitting Rooms",
+      "Sensory Upgrade Spas",
+      "Memory Enhancement Pharmacies",
+      "Holo-Vision Correction Units",
+      "Synaptic Bridge Installers",
+      "Morphology Adjustment Stations",
+      "Bio-Tissue Integration Wings",
+      "Muscle Strand Reinforcement Labs",
+      "Cognitive Interface Parlors"
+    ],
+    "Genetic Engineering Centers": [
+      "Trait Selection Farms",
+      "Pathogen Immunization Labs",
+      "Bio-Interface Engineers",
+      "Agri-Gene Optimization Hubs",
+      "Species Resurrection Projects",
+      "Ocular Genome Editors",
+      "Quantum Gene Linkers",
+      "Enzyme Library Basins",
+      "Climate-Adaptive Code Banks",
+      "Adaptive Immunogen Labs"
+    ],
+    "Bacta & Healing Technologies": [
+      "Bacta Tanks",
+      "Regenerative Gel Packs",
+      "Healing Crystal Chambers",
+      "Nano-Med Injection Systems",
+      "Soul-Soothing Frequencies",
+      "Stasis Vial Carriers",
+      "Nerve Regen Capsules",
+      "Holo-Surgery Assistants",
+      "Brainwave Calm Emitters",
+      "Psyche Mending Rays"
+    ],
+    "Pandemic Responses & Health Protocols": [
+      "Containment Quarantine Hubs",
+      "Anti-Viral Field Generators",
+      "Holo-Doctor Dispatches",
+      "Migrant Health Clinics",
+      "Interspecies Infection Control",
+      "Hygiene Beacon Nets",
+      "Multi-Zone Vaccination Drills",
+      "Microscopic Filter Patrols",
+      "Moral Triage Debates",
+      "Bio-Hazard Sentinel Circles"
+    ]
+  },
+  "Fashion & Clothing": {
+    "Noble & High-Status Attire": [
+      "Bejeweled Gowns",
+      "High-Collar Regal Robes",
+      "Holo-Fabric Regal Suits",
+      "Embossed Armor Couture",
+      "Cloaks of Starlight",
+      "Kyber-Embellished Capes",
+      "Crest-Inscribed Tunics",
+      "Shimmering Veil Dresses",
+      "Long-Train Ceremonial Gear",
+      "Sun Glint Headbands"
+    ],
+    "Functional & Practical Wear": [
+      "Multi-Pocket Vests",
+      "Storm-Weather Tunics",
+      "Subzero Insulation Jackets",
+      "Desert Protective Wraps",
+      "Terrain-Adaptive Boots",
+      "Gravity Grip Gloves",
+      "Vacuum Layer Bodysuits",
+      "Reflective Sun Shawls",
+      "Bio-Filter Breathing Masks",
+      "Light-Absorbent Undersuits"
+    ],
+    "Trader & Spacer Garb": [
+      "Smuggler's Utility Belt",
+      "Pilot Flight Suits",
+      "Dockworker Overalls",
+      "Merchant Guild Sashes",
+      "Spacer Patchwork Jackets",
+      "Nav-Chart Shoulder Cloaks",
+      "Holo-Beacon Vest Strips",
+      "Compression Cargo Pants",
+      "Ion-Pad Knee Guards",
+      "Nutrient Pouch Harnesses"
+    ],
+    "Ceremonial & Ritual Robes": [
+      "Temple Initiate Cloaks",
+      "Wedding Harmony Wraps",
+      "Festival Masked Garments",
+      "Tribal Ancestral Shawls",
+      "Chime-Embedded Attire",
+      "Mosaic Talisman Vests",
+      "Holi-Orb Embroidery",
+      "Ritual Flame Sashes",
+      "Crystal-Thread Kimonos",
+      "Comet Feather Cloaks"
+    ],
+    "Tech-Infused Clothing": [
+      "Stealth Fabric Suits",
+      "Thermo-Regulating Hats",
+      "Holo-Projecting Scarves",
+      "Scent-Filtering Tunics",
+      "Muscle-Support Leggings",
+      "Quantum Weave Gloves",
+      "Light-Frequency Helmets",
+      "Electro-Absorbent Hoods",
+      "Impact-Gel Knee Shields",
+      "Sensor Reactive Bracelets"
+    ]
+  },
+  "Philosophical & Ideological Movements": {
+    "Pacifist Enclaves": [
+      "Non-Aggression Communes",
+      "Peacekeeping Mediators",
+      "Harmonic Chanting Circles",
+      "Conflict Resolution Farms",
+      "Refuge for War-Worn",
+      "Empathy Broadcasters",
+      "Inner Balance Monasteries",
+      "Voice of Calm Councils",
+      "Daylight Harmonizers",
+      "Holo-Diplomacy Circuits"
+    ],
+    "Expansionists & Colonizers": [
+      "Terraform Advocate Groups",
+      "Core-World Expansion Lobbyists",
+      "Hyperlane Chart Crusaders",
+      "Astro-Colonization Pioneers",
+      "Pro-Resource Exploitation Circles",
+      "Fast Frontier Settlers",
+      "Bio-Colony Visionaries",
+      "Pre-Emptive Claimers",
+      "Stratified Terraform Clans",
+      "Expansion Mandate Acolytes"
+    ],
+    "Anti-Technology Cults": [
+      "Machine-Free Religious Sects",
+      "Primitive Lifestyle Colonies",
+      "Tech-Skeptic Librarians",
+      "Signal-Jamming Monastics",
+      "Bio-Purity Keepers",
+      "Cavern Dwelling Primitives",
+      "Tool Fasting Communities",
+      "Holo-Blind Monks",
+      "Cultural De-Mech Advocates",
+      "Off-Grid Visionaries"
+    ],
+    "Environmental Guardians": [
+      "Wildlife Sanctuary Defenders",
+      "Anti-Pollution Vigilantes",
+      "Reforesting Monks",
+      "Coral Reef Saviors",
+      "Biodiversity Wardens",
+      "Gene-Pool Protectors",
+      "Sustainable Harvest Circles",
+      "Atmosphere Balancer Druids",
+      "Eco-Holo Observers",
+      "Water Cycle Preservers"
+    ],
+    "Merchant Libertarians": [
+      "Free Trade Advocates",
+      "Low-Tax Frontier Settlements",
+      "Corporate Loophole Exploiters",
+      "Minimalist Governance Traders",
+      "Horizontal Supply Chain Collectives",
+      "Credit Flow Liberators",
+      "Tariff-Cutter Thinkers",
+      "Black Market Sympathizers",
+      "Profit Margin Purists",
+      "De-Regulation Enthusiasts"
+    ]
+  },
+  "Legal & Judicial Systems": {
+    "Interstellar Courts": [
+      "High Tribunal of Justice",
+      "Neutral Arbitration Council",
+      "Holo-Judge Forums",
+      "Cross-Cultural Law Circle",
+      "Precedent-Setting Jury",
+      "Memory Archive Judges",
+      "Harm Reduction Appeals",
+      "Evidence Integrity Cabal",
+      "Neural Witness Panels",
+      "Code Balance Referees"
+    ],
+    "Planetary Lawkeepers": [
+      "Desert Marshals",
+      "Urban Peace Officers",
+      "Highland Ranger Wardens",
+      "Oasis Sheriffs",
+      "Underground Vigilant Units",
+      "Forest Peacebrokers",
+      "Resource Compliance Agents",
+      "Tundra Night Watch",
+      "Holo-Footprint Trackers",
+      "Gravity Lock Enforcers"
+    ],
+    "Tribal & Clan Justice": [
+      "Council of Elders",
+      "Totem-Based Verdicts",
+      "Huntress Enforcers",
+      "Bloodline Witnesses",
+      "Rite-of-Passage Courts",
+      "Ancestor Circle Judges",
+      "Mediated Ritual Circles",
+      "Folk Story Precedents",
+      "Genealogy Claim Arbitrators",
+      "Cultural Taboo Panels"
+    ],
+    "Corporate Enforcers": [
+      "Contract Compliance Agents",
+      "Loan Default Trackers",
+      "Resource Quota Inspectors",
+      "Brand Integrity Patrols",
+      "Mercantile Fine Collectors",
+      "Holo-Agreement Scrutinizers",
+      "Quality Control Marshals",
+      "Brand Image Taskforce",
+      "Market Scarcity Monitors",
+      "Security Token Guards"
+    ],
+    "Diplomatic Arbitration": [
+      "Cross-Border Mediators",
+      "Inter-Species Peace Panels",
+      "Holo-Translator Judges",
+      "Fair Treaty Interpreters",
+      "Conflict De-Escalation Experts",
+      "Mutual Understanding Circles",
+      "Adaptive Law Synthesizers",
+      "Value Reconciliation Committees",
+      "Equity & Parity Arbiters",
+      "Nodal Concord Builders"
+    ]
+  },
+  "Transportation Infrastructure": {
+    "Hyperspace Lanes": [
+      "Major Trade Spine",
+      "Secret Smuggler Shortcut",
+      "Perilous Nebula Passage",
+      "Frontier Expansion Route",
+      "Anomaly-Dodging Channel",
+      "Core-Branch Corridor",
+      "Feeder Route Web",
+      "Deep Core Drift Lane",
+      "Quantum Slipway Path",
+      "Cross-Sector Shortcut"
+    ],
+    "Gateways & Portals": [
+      "Wormhole Stabilizers",
+      "Gravity Well Ramps",
+      "Quantum Gate Arrays",
+      "Multi-Dimensional Folds",
+      "Singularity Transfer Links",
+      "Time-Shifted Passages",
+      "Cosmic Key Arrays",
+      "Folded Space Bridges",
+      "Holo-Portal Axes",
+      "Dimension Cleft Doors"
+    ],
+    "Local & Urban Transit": [
+      "Air Tram Networks",
+      "Maglev Underground Rails",
+      "Suspension Bridge Cars",
+      "Autonomous Sky Taxis",
+      "Holo-Guide Station Kiosks",
+      "Ion Glide Buses",
+      "Soil Tube Freight Lines",
+      "Cliffhanger Lift Pods",
+      "Biolum Street Guides",
+      "Gravity Dock Trams"
+    ],
+    "Intersector Ferries & Liners": [
+      "Luxury Starliner",
+      "Refugee Transport Ferry",
+      "Resource Shuttle Convoy",
+      "Diplomatic Envoy Ship",
+      "Cultural Exchange Cruiser",
+      "Agri-Ship Ferries",
+      "Artisan Market Liners",
+      "Void Boundary Ferries",
+      "Long-Distance Passenger Haulers",
+      "Border Crossing Vessels"
+    ],
+    "Subspace & Experimental Paths": [
+      "Sub-Etheric Drift Lane",
+      "Gravity Slingshot Corridor",
+      "Dark Matter Transit Tube",
+      "Pulsar Navigation Guides",
+      "Holo-Ceiling Test Rails",
+      "Phase-Shift Ferries",
+      "Quantum Blink Rifts",
+      "Waveform Overpass",
+      "Intermittent Pulse Routes",
+      "Dimension Echo Loops"
+    ]
+  },
+  "Communication & Information": {
+    "Holo-Net Infrastructure": [
+      "Central Com Node",
+      "Encrypted Relay Station",
+      "Long-Distance Beacon Tower",
+      "Quantum Info Router",
+      "Sub-Orbital Datapad Hub",
+      "Spectrum Mesh Spine",
+      "Cloud-Density Relays",
+      "Synapse Net Arrays",
+      "Holo-Archive Towers",
+      "Bio-Signal Conversion Nodes"
+    ],
+    "Encryption & Security": [
+      "Quantum Key Exchange",
+      "Memory Wipe Protocol",
+      "Molecular Data Scrambler",
+      "Time-Shifted Code Rings",
+      "Holo-Chaff Signals",
+      "Bio-Code Sequence Locks",
+      "Multi-Layer Crypt Filters",
+      "Neural Pattern Passkeys",
+      "Data Isotope Stamps",
+      "Spectral Frequency Shifters"
+    ],
+    "Propaganda & News Outlets": [
+      "State Broadcast Channel",
+      "Rogue Pirate Radio",
+      "Underground News Holozine",
+      "Misinformation Holograms",
+      "Tech Corp PR Hubs",
+      "Spin Cycle Feeds",
+      "Censored Echo Outlets",
+      "Value Narration Circles",
+      "Force-View Journalism",
+      "Holo-Whisper Rumors"
+    ],
+    "Astrography & Cartography": [
+      "Star Chart Forge",
+      "Cosmic Survey Drone",
+      "Nebula Boundary Markers",
+      "Archaic Map Tablets",
+      "Holo-Recon Sphere",
+      "Wormhole Marker Buoys",
+      "Planetary Surface Scanners",
+      "3D Spatial Plotting Cubes",
+      "Time Drift Mappers",
+      "Spectral Astrometry Tables"
+    ],
+    "Courier & Messenger Guilds": [
+      "High-Speed Dispatch Riders",
+      "Encrypted Data Runners",
+      "Polite Courier Corps",
+      "Cross-Sector Messenger Drones",
+      "Fair-Delivery League",
+      "Stealth Drop Pods",
+      "Sunbeam Note Passers",
+      "Bio-Letter Carriers",
+      "Quantum Packet Droppers",
+      "Nebula Runner Services"
+    ]
+  },
+  "Ecological & Environmental Management": {
+    "Conservation Efforts": [
+      "Endangered Species Sanctuaries",
+      "Reforestation Projects",
+      "Coral Reef Restoration",
+      "Fauna Reintroduction",
+      "Planetary Park Systems",
+      "Gene Memory Seed Vaults",
+      "Arboreal Whisper Exchanges",
+      "Holo-Bee Pollinator Farms",
+      "Undersea Choral Shelters",
+      "Ionic Wind Purifiers"
+    ],
+    "Wildlife Preserves": [
+      "Migratory Bird Shelters",
+      "Insect Hive Domes",
+      "Forest Canopy Refuges",
+      "Deep Sea Creature Havens",
+      "Arboreal Conservation Sphere",
+      "Radiant Reef Keepers",
+      "Cavern Echo Parks",
+      "Glacier Beast Sanctuaries",
+      "Petal Grove Nests",
+      "Marsh Filtered Reserves"
+    ],
+    "Engineered Ecosystems": [
+      "Bio-Fabricated Gardens",
+      "Climate-Controlled Biospheres",
+      "Habitat Simulation Zones",
+      "Aqua-Terra Blends",
+      "Soil Chemistry Labs",
+      "Holo-Forest Simulation",
+      "Elemental Harmony Zones",
+      "Seed Convergence Chambers",
+      "Marine Genome Boards",
+      "Multi-Fauna Creches"
+    ],
+    "Pollution Control & Cleanup": [
+      "Toxic Waste Neutralizers",
+      "Carbon Capture Towers",
+      "Waste Recycling Plants",
+      "Floating Oil-Eater Clouds",
+      "Radiation Shield Arrays",
+      "Acid Rain Deflectors",
+      "Ion Field Scrubbers",
+      "Bio-Remediation Tanks",
+      "Holo-Clean Blueprint Labs",
+      "Spore-Pollen Stabilizers"
+    ],
+    "Resource Balancing Initiatives": [
+      "Asteroid Mine Quotas",
+      "Seasonal Fishery Limits",
+      "Sustainable Logging Pacts",
+      "Energy Rationing Polices",
+      "Conscious Crop Rotation",
+      "Harvest Timing Schedules",
+      "Load-Balancing Storage Nets",
+      "Hydro-Well Distribution",
+      "Nutrient Equity Boards",
+      "Resource Rotation Councils"
+    ]
+  },
+  "Rituals & Ceremonies": {
+    "Coming-of-Age Rites": [
+      "Star-Gazing Vigil",
+      "Hunter's Moon Trial",
+      "Artisan's First Craft Ceremony",
+      "Village Mentor Naming",
+      "Ancestral Blood Oath",
+      "Holo-Reflection Passage",
+      "Crystallization Feat Test",
+      "Root Festival Bonding",
+      "Aurora Witness Blessing",
+      "Sand Circle Footprint Rite"
+    ],
+    "Marriage & Union Ceremonies": [
+      "Bonding Light Orb Exchange",
+      "Confluence of Life Song",
+      "Shared Harvest Feast",
+      "Dual Mask Unveiling",
+      "Holo-Vow Synchronization",
+      "Water-Chime Blessings",
+      "Starfall Lattice Ceremony",
+      "Sun-Clarion Hymn",
+      "Parallel Path Binding",
+      "Wind Petal Union"
+    ],
+    "Harvest & Seasonal Festivals": [
+      "Moth Emergence Day",
+      "Crystal Bloom Season",
+      "Solar Alignment Feast",
+      "Wind Dance Ritual",
+      "Rainfall Gratitude Gathering",
+      "Seed Cycle Jubilee",
+      "Fertility Convergence Rite",
+      "Comet Bloom Celebrations",
+      "Flood Recession Day",
+      "Fungal Glow Harvest"
+    ],
+    "Warrior & Honor Ceremonies": [
+      "Blade Forging Rite",
+      "Honor Duel Recognition",
+      "Ancestral Armor Fitting",
+      "Scar Inscription Ritual",
+      "Clan Crest Dedication",
+      "Trophy Echo Drums",
+      "Victory Holo-Disk Display",
+      "Fealty Cord Exchange",
+      "Moonsteel Lance Ritual",
+      "Winged Banner Elevation"
+    ],
+    "Memorial & Remembrance": [
+      "Candle Moon Vigil",
+      "Ancestor Holo-Projections",
+      "Naming Stars for Fallen",
+      "Bone-Flute Elegy",
+      "Whispering Grove Visit",
+      "Silent Flame Beacon",
+      "Echo Chamber Testimonials",
+      "Comet Ash Scattering",
+      "Nebula Reef Memorial",
+      "Lamentation Wind Harps"
+    ]
+  },
+  "Corporate & Industrial Powerhouses": {
+    "Droid Manufacturers": [
+      "Precision Droid Fabricators",
+      "Multi-Purpose Automaton Forge",
+      "Luxury Servant Droid Brand",
+      "Combat Droid Specialist Firm",
+      "Astromech Innovation Labs",
+      "Bio-Mech Integration Foundry",
+      "Memory Core Optimizers",
+      "Holo-Interface Servitors",
+      "Refurbishment Drone Factories",
+      "Nano-Assembler Companies"
+    ],
+    "Starship Conglomerates": [
+      "Core Shipwright Guild",
+      "Custom Cruiser Workshops",
+      "Mass-Production Frigate Line",
+      "Artisanal Yacht Builders",
+      "Freighter Efficiency Labs",
+      "Adaptive Hull Innovators",
+      "Modular Engine Founders",
+      "Armored Hull Masterworks",
+      "High-Grade Shield Smiths",
+      "Seamless Hyperdrive Forgers"
+    ],
+    "Energy & Fuel Corporations": [
+      "Fusion Core Refiners",
+      "Tibanna Gas Extractors",
+      "Solar Converter Firms",
+      "Geo-Thermal Tap Exploiters",
+      "Ion Battery Merchants",
+      "Quantum Dynamo Foundries",
+      "Bio-Fuel Synth Centers",
+      "Holo-Reactor Designers",
+      "Zero-Point Brokerages",
+      "Energy Node Cooperatives"
+    ],
+    "Terraforming Enterprises": [
+      "Atmosphere Balancer Ltd.",
+      "Climate Sculptor Corp",
+      "Hydro-Expander Inc.",
+      "Desert Bloom Solutions",
+      "Arctic Melt Managers",
+      "Seismic Stabilization Corp",
+      "Spore-Seedling Industries",
+      "Luminosity Control Networks",
+      "Gravity Tuner Contractors",
+      "Enviro-Regulator Holdings"
+    ],
+    "AI & Droid Intelligence R&D": [
+      "Cognitive Uplink Centers",
+      "Memory Algorithm Workshops",
+      "Holo-Cognitive Think Tanks",
+      "Gen-7 Droid Brain Designers",
+      "Adaptive Learning Labs",
+      "Bio-Synapse Code Writers",
+      "Quantum Thought Arrays",
+      "Data Emotion Imprinters",
+      "Moral Logic Designers",
+      "Rationality Test Servers"
+    ]
+  },
+  "Survival & Frontier Elements": {
+    "Frontier Settlements": [
+      "Harsh Desert Colony",
+      "Tundra Survival Hub",
+      "Jungle Edge Farmstead",
+      "Swamp Dock Village",
+      "Volcanic Mining Hamlet",
+      "Highland Grazer Camp",
+      "Aqua-Glacier Fishing Nest",
+      "Windblown Cliff Hamlet",
+      "Marsh Reed Houses",
+      "Nebula Mist Clearing"
+    ],
+    "Scavenger Societies": [
+      "Wreck Salvage Crews",
+      "Bone Picker Camps",
+      "Junk Asteroid Colonies",
+      "Abandoned Station Looters",
+      "Drift Belt Harvesters",
+      "Ion Scrap Gatherers",
+      "Ship Breaker Guilds",
+      "Data Core Recycler Clans",
+      "Metallurgic Patchers",
+      "Ruin Dweller Bazaars"
+    ],
+    "Nomadic Traders": [
+      "Wandering Merchant Ships",
+      "Caravan of Barges",
+      "Planet-Hopping Bargain Seekers",
+      "Mobile Market Sphere",
+      "Roaming Festival Barges",
+      "Holo-Troupe Caravans",
+      "Transit Slipway Traders",
+      "Relic Exchange Flotillas",
+      "Cargo Drop Collectives",
+      "Liminal Border Swappers"
+    ],
+    "Pirate Havens": [
+      "Asteroid Rim Refuge",
+      "Hidden Nebula Ports",
+      "Uncharted Lagoon Base",
+      "Defunct Station Sanctum",
+      "Holo-Cloaked Fortress",
+      "Quarantine Zone Hideout",
+      "Gas Giant Drifter Hub",
+      "Coral Reef Underport",
+      "Gravity Debris Lair",
+      "Refraction Field Encampment"
+    ],
+    "Hidden Enclaves & Safehouses": [
+      "Subterranean Cavern Town",
+      "Ice Crevasse Shelter",
+      "Dense Jungle Retreat",
+      "Abandoned Freighter Hideout",
+      "Holo-Camouflaged Hut",
+      "Fog-Shrouded Retreat",
+      "Moss-Covered Mountain Nook",
+      "Nomad Cliff Burrow",
+      "Under-Bridge Refuge",
+      "Rubble Pile Sanctuary"
+    ]
+  },
+  "Diplomacy & Intercultural Relations": {
+    "Ambassadorial Missions": [
+      "Language Exchange Envoys",
+      "Resource Sharing Delegations",
+      "Cultural Tour Emissaries",
+      "Peace Temple Aides",
+      "Conflict Mediator Teams",
+      "Heritage Appreciation Groups",
+      "Trade Harmony Champions",
+      "Alliance Petitioners",
+      "Translational Scribes",
+      "Cross-Value Liaisons"
+    ],
+    "Peace Treaties & Alliances": [
+      "Non-Aggression Pact Signings",
+      "Resource Equilibrium Deals",
+      "Inter-Faith Understanding Charters",
+      "Border Neutralization Accords",
+      "Warp Beacon Access Trades",
+      "Mutual Defense Vows",
+      "Holo-Witnessed Armistices",
+      "Détente Handbook Exchanges",
+      "Cross-Guild Concords",
+      "Harmony Token Swaps"
+    ],
+    "Cultural Liaisons & Interpreters": [
+      "Multi-Lingual Counselors",
+      "Symbol Decoding Experts",
+      "Taboo Negotiation Guides",
+      "Cultural Signal Advisors",
+      "Cross-Value Mediators",
+      "Holo-Etiquette Tutors",
+      "Contextual Gesture Readers",
+      "Heritage Code Translators",
+      "Value Gap Bridge Teams",
+      "Ritual Explanation Circles"
+    ],
+    "Non-Aggression & Neutral Zones": [
+      "Demilitarized Sectors",
+      "Cultural Heritage Stations",
+      "Trade Route Safe Corridors",
+      "Refugee Protection Worlds",
+      "Pilgrimage Neutral Grounds",
+      "Co-Managed Mining Zones",
+      "Open Diplomacy Fields",
+      "Long Peace Borderlands",
+      "Neutral Arbitration Moons",
+      "Conflict-Free Gateways"
+    ],
+    "Intercultural Summits & Fairs": [
+      "Multi-Species Friendship Day",
+      "Diversity Celebration Carnivals",
+      "Holoculture Exchange Hubs",
+      "Peaceful Debate Forums",
+      "Memory Sharing Rituals",
+      "Shared Language Songfests",
+      "Inter-Guild Diplomatic Picnic",
+      "Dual-Tradition Ceremonies",
+      "Heritage Tale Exchanges",
+      "Poly-Cuisine Banquets"
+    ]
+  },
+  "Cosmic & Astronomical Features": {
+    "Binary & Multiple Star Systems": [
+      "Twin-Sun Oases",
+      "Triple-Star Cascade",
+      "Quadruple Beacon System",
+      "Helix Orbit Patterns",
+      "Balanced Gravity Twins",
+      "Nested Orbit Clusters",
+      "Waveform Star Alignments",
+      "Chained Solar Arrays",
+      "Resonant Stellar Triplets",
+      "Spiral Link Star Web"
+    ],
+    "Rogue & Wandering Planets": [
+      "Starless Void World",
+      "Nomad Planet Oasis",
+      "Comet-Trail Following Sphere",
+      "Refugee Planet Harbor",
+      "Hidden Gravity Sink",
+      "Cloaked Nebula Drifter",
+      "Bare Core Wanderer",
+      "Chilled Ember Sphere",
+      "Spectrum Glow Roamer",
+      "Solar Runaway Orb"
+    ],
+    "Hyperspace Anomalies": [
+      "Quantum Flux Rifts",
+      "Time-Dilating Pocket",
+      "Gravity Inversion Loop",
+      "Subspace Echo Corridor",
+      "Reality Tear Aperture",
+      "Holo-Horizon Distortion",
+      "Dimension Slip Fault",
+      "Temporal Phase Beacon",
+      "Wormhole Echo Chamber",
+      "Cosmic Mirage Lens"
+    ],
+    "Rare Comet Showers & Events": [
+      "Holo-Tail Comet",
+      "Rainbow Ion Comet",
+      "Resource-Rich Icy Comet",
+      "Biannual Crystal Comet Pass",
+      "Sun-Skipping Fire Comet",
+      "Cobalt Dust Storm Comet",
+      "Spore-Seeding Comet Spray",
+      "Fission Fragment Comet",
+      "Holo-Reflective Comet Chain",
+      "Wind Song Comet Revel"
+    ],
+    "Black Holes & Neutron Stars": [
+      "Graviton Well Core",
+      "Supermassive Black Hole Hub",
+      "Neutron Star Beacon",
+      "Event Horizon Lighthouses",
+      "Dark Matter Orb Dwelling",
+      "Axion Whisper Wells",
+      "Stellar Collapse Remnants",
+      "Hawking Radiation Springs",
+      "Gravity Singularity Nett",
+      "Horizon Distortion Fields"
+    ]
+  }
+}
